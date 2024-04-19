@@ -1,0 +1,15 @@
+core i9
+ryzen 9
+core i7
+ryzen 7
+core ultra 7
+core i5
+ryzen 5
+ryzen 3
+core i3
+m3
+m2
+other
+celeron
+pentium
+m1

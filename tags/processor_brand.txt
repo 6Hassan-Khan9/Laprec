@@ -1,0 +1,4 @@
+intel
+amd
+apple
+other

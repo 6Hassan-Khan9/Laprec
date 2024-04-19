@@ -1,0 +1,12 @@
+24cores
+12cores
+8cores
+14cores
+16cores
+20cores
+10cores
+6cores
+4cores
+2cores
+5cores
+11cores
