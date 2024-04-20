@@ -1,8 +1,9 @@
 <script>
+    import { recommend } from '../client';
     import '../app.postcss';
     import { brands, displays, gpu_brands, gpu_types, cores, storage_caps, storage_type, processor_brand, processors, rams } from '../tags';
 
-    export let activeTag = 'brand';
+    export let activeTag = 'none';
 
     // Get appropriate data using keys
     let data = {
@@ -16,12 +17,15 @@
         'processor-brand': processor_brand,
         'processor': processors,
         'ram': rams,
+        'none': []
     };
 
 </script>
 
-<div class="w-48 h-96 mr-4 border border-neutral overflow-hidden">
-    {#each data[activeTag] as tag}
-        <p>{tag}</p>
-    {/each}
+<div class="w-48 h-96 mr-4 border border-neutral overflow-y-scroll">
+    <div class="flex gap-4 flex-wrap justify-center my-2">
+        {#each data[activeTag] as tag}
+            <button class="btn w-[80%]">{tag}</button>
+        {/each}
+    </div>
 </div>
