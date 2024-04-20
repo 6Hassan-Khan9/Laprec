@@ -2,8 +2,9 @@
 	import '../app.postcss';
 
 	import Search from '../components/Search.svelte';
-	import DisplayBox from '../components/DisplayBox.svelte';
+	import DisplayBox from '../components/ResultBox.svelte';
     import ThemeController from '../components/ThemeController.svelte';
+	import DisplayTags from '../components/DisplayTags.svelte';
 
 </script>
 
@@ -18,9 +19,10 @@
 	</div>
 
 	<div class="flex">
-		<div class="w-48 h-96 mr-4 border border-neutral"></div>
+		<DisplayTags />
 		<DisplayBox />
 	</div>
+
 	<Search />
 
 	<div class="flex justify-evenly my-12 w-96">
