@@ -1,0 +1,992 @@
+brand,Model,Price,Rating,processor_brand,processor_tier,num_cores,ram_memory,primary_storage_type,primary_storage_capacity,secondary_storage_type,gpu_brand,gpu_type,display_size,resolution_width,resolution_height
+tecno,Tecno Megabook T1 Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),79646,63,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+tecno,Tecno Megabook T1 Laptop (11th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home),119486,67,intel,core i7,4,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 15-fb0157AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),169652,73,amd,ryzen 5,6,8,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+acer,Acer Extensa EX214-53 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),132766,62,intel,core i5,12,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo V15 82KDA01BIH Laptop (AMD Ryzen 3 5300U/ 8GB/ 512GB SSD/ Win11 Home),94885,62,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+apple,Apple MacBook Air 2020 MGND3HN Laptop (Apple M1/ 8GB/ 256GB SSD/ MacOS),235686,45,apple,m1,8,8,SSD,256,NONE,apple,apple,13.3,2560,1600
+infinix,Infinix INBook Y2 Plus Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win 11 Home),116166,56,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus TUF Gaming F15 FX506HF-HN024W Gaming Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),165966,70,intel,core i5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 15s-fq5007TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),122806,60,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+infinix,Infinix Zerobook 2023 Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win 11 Home),199166,71,intel,core i9,14,32,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 3520 D560896WIN9B Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),116166,60,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+samsung,Samsung Galaxy Book2 Pro 13 Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),215766,68,intel,core i5,12,16,SSD,512,NONE,intel,integrated,13.3,1080,1920
+msi,MSI Thin GF63 12UC-846IN Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graphics),175926,71,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 16X 2022 M1603QA-MB711WS Laptop (Ryzen 7-5800H/ 16GB/ 512GB SSD/ Win11 Home),190534,71,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,16.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 3 82H803LKIN Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11),157666,66,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Omen 16-wf1025TX Gaming Laptop (14th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),511246,85,intel,core i7,20,16,SSD,1024,NONE,nvidia,dedicated,16.1,2560,1440
+lenovo,Lenovo V15 G3 IAP 82TTA08AIN Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/Win11),165966,59,intel,core i7,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus TUF Gaming F15 FX506HE-HN385WS Gaming Laptop (11th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 4GB Graph),252286,76,intel,core i7,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 15-fb1017AX Gaming Laptop (AMD Ryzen 5 7535HS/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),184226,71,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+wings,Wings Nuvobook V1 Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11),92926,56,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1080,1920
+hp,HP 255 G9 840T7PA Laptop (AMD Athlon Silver-3050U/ 4GB/ 256GB SSD/ DOS),64072,49,amd,other,2,4,SSD,256,NONE,amd,integrated,15.6,1366,768
+lenovo,Lenovo V15 G4 82YU00W7IN Laptop (AMD Ryzen 3 7320U/ 8GB/ 512GB SSD/ Win11 Home),92926,59,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+apple,Apple MacBook Pro 16 2023 Laptop (Apple M3 Max/ 48GB/ 1TB SSD/ macOS),1327668,65,apple,m3,16,8,SSD,1024,NONE,apple,apple,16.2,3456,2234
+asus,Asus Vivobook 15 X1502ZA-EJ385WS Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),132766,57,intel,core i3,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus VivoBook 15 X1500EA-EJ311W Laptop (11th Gen Core i3/ 8GB/ 256GB SSD/ Win11),92926,57,intel,core i3,2,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Nitro V ANV15-51 2023 Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),258926,63,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 16-s0094AX Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),262246,77,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.1,1920,1080
+ultimus,Ultimus Elite NU14U3INF56BN-CS Laptop (10th Gen Core i5 / 8GB/ 512GB SSD/ Win11 Home),66366,54,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.1,1920,1080
+hp,HP Pavilion 15-eg3081TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),239036,66,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI GF63 Thin 11UC-1294IN Gaming Laptop (11th Gen Core i7/ 16GB/ 1TB 256GB SSD/ Win11/ 4GB Graph),221709,76,intel,core i7,8,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+samsung,Samsung Galaxy Book2 NP550XED-KA1IN 15 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),149366,59,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+samsung,Samsung Galaxy Book2 NP550XED-KA2IN Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),159326,62,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101GSIN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),159326,71,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 16X 2022 M1603QA-MB502WS Laptop (Ryzen 5-5600H/ 8GB/ 512GB SSD/ Win11 Home),156006,65,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,16.0,1920,1200
+apple,Apple MacBook Air 2022 Laptop (Apple M2/ 8GB/ 256GB SSD/ MacOS),341926,48,apple,m2,8,8,SSD,256,NONE,apple,apple,13.6,2560,1664
+dell,Dell G15-5520 Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),226553,66,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire Lite AL15-52 15 Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11),156006,64,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire Lite 15 AL15-52 Laptop (12th Gen Core i3/ 16GB/ 512GB SSD/ Win11),116166,60,intel,core i3,6,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15s-fr5011TU Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),179246,62,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 16X 2023 K3605ZF-MB541WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),212446,72,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus ROG Flow X13 GV301RC-LJ132WS Gaming Laptop (AMD Ryzen 9 6900HS/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),377055,77,amd,ryzen 9,8,16,SSD,512,NONE,nvidia,dedicated,13.4,1920,1200
+hp,HP Victus 15-fa1062TX Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),294816,71,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 15-fb0150AX Gaming Laptop (AMD Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),177852,71,amd,ryzen 5,6,16,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+hp,HP Omen 16-xf0060AX Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),388406,80,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1080
+hp,HP Victus 15-fa0555TX  Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),235089,71,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell G15-5530 GN5530D83M6002ORB1 Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),269882,71,intel,core i5,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Modern 14 C11M-030IN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),119354,58,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus ROG Strix SCAR 16 2023 G634JZ-NM057WS Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win11 Home/ 12GB Graph),896366,83,intel,core i9,24,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+msi,MSI Thin GF63 12VE-071IN Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/6GB Graphics),232366,70,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell Vostro 3425 Laptop (AMD Ryzen 5 5625U/ 8GB/ 512GB SSD/ Win11 Home),131634,66,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+infinix,Infinix INBook Y1 Plus 15 XL28 Laptop (10th Gen Core i5/ 8GB/ 512GB SSD/ Win 11 Home),99566,54,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire Lite AL15-52 Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),109526,58,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 16-s0095AX Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),277518,76,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+hp,HP Victus 15-FB1001AX Gaming Laptop (AMD Ryzen 5 7535HS/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),180906,70,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 15s-eq2132AU Laptop (AMD Ryzen 5 5500U/ 16GB/ 512GB SSD/ Win11 Home),141096,63,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+infinix,Infinix INBook X3 Slim XL422 2023 Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win 11 Home),92926,50,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP Omen 16-u0005TX Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),491326,80,intel,core i7,16,16,SSD,1024,NONE,nvidia,dedicated,16.1,2560,1600
+asus,Asus TUF Gaming F17 FX707ZC4-HX067W Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),245962,75,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,17.3,1920,1080
+dell,Dell Inspiron 5430 Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11),287146,66,intel,core i7,12,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+asus,Asus Vivobook 15 X1502ZA-EJ741WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11),202486,67,intel,core i7,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Ideapad Gaming 3 82SB00NXIN Laptop (AMD Ryzen 5 7535HS/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),189206,69,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell Inspiron 5630 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),240666,70,intel,core i5,12,16,SSD,512,NONE,intel,integrated,16.0,2560,1600
+asus,Asus VivoBook 14 X415EA-EK344WS Notebook (11th Gen Core i3/ 16GB/ 512GB SSD/ Win11 Home),119486,64,intel,core i3,2,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus TUF Gaming F15 2023 FX507ZV-LP094W Gaming Laptop (12th Gen Core i7/ 16GB/512GB SSD/ Win11 Home/ 8GB Graph),361846,78,intel,core i7,14,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus TUF Gaming F15 FX506HF-HN025W Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),192526,72,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 15-fa0998TX Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),232396,72,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 15-fa0666TX Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),239006,65,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+apple,Apple MacBook Air 15 2023 Laptop (Apple M2/ 8GB/ 256GB SSD/ MacOS),398366,53,apple,m2,8,8,SSD,256,NONE,apple,apple,15.3,2880,1864
+infinix,Infinix INBook Y1 Plus Neo XL30 Laptop (Intel Celeron N5100/ 8GB/ 512GB SSD/ Win 11 Home),89606,53,intel,celeron,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Pavilion x360 14-ek1010TU Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11),258624,70,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,14.0,1920,1080
+primebook,Primebook 4G Android Laptop (MediaTek Kompanio 500/ 4GB/ 64GB eMMC/ Android 11),49766,26,other,other,8,4,HDD,64,NONE,arm,integrated,11.6,1366,768
+dell,Dell Inspiron 3520 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),166000,60,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire 5 A515-57G UN.K9TSI.002 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),189206,71,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 15-fa0070TX Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),192526,70,intel,core i5,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 16-e0352AX Gaming Laptop (Ryzen 5-5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),165996,70,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+asus,Asus Vivobook S14 OLED S3402ZA-KM501WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),240666,62,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+asus,Asus Vivobook S15 OLED K3502ZA-L501WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),231367,64,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+iball,iBall Excelance CompBook Laptop (AQC/ 2GB/ 32GB/Win10),32536,41,intel,other,4,2,HDD,32,NONE,intel,integrated,11.6,1366,768
+ultimus,Ultimus Lite NU14U3INC54BN Laptop (Celeron N4020/ 8GB/ 256GB SSD/ Win11 Home),53086,46,intel,celeron,2,8,SSD,256,NONE,intel,integrated,14.1,1366,768
+dell,Dell G15-5530 Gaming Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),278846,72,intel,core i5,10,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus VivoBook 14 X1400EA-EK543WS Notebook (11th Gen Core i5/16GB/ 512GB SSD/ Win11 Home),156006,57,intel,core i5,4,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP Pavilion 15-EG2119TU Laptop (12th Gen Core i5/12GB RAM/ 512GB SSD/ Win11),202486,54,intel,core i5,12,12,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 82X60013IN Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11),149366,51,intel,core i3,5,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo ThinkBook 15 G5 21JF002JIN Laptop (AMD Ryzen 3 7330U/ 8 GB/ 512 GB SSD/ Win11),116166,66,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Victus 15-fa1145TX Gaming Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home/ 4GB Graph),222406,72,intel,core i5,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo V15 G4 Laptop (AMD Athlon Silver 7120U/ 8GB/ 512GB SSD/ Win11 Home),81140,47,amd,other,2,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Victus 15-fb1002AX Gaming Laptop (AMD Ryzen 5 7535HS/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),172606,70,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Thin GF63 11SC-1629IN Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),182566,65,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+ultimus,Ultimus Pro NU14U3INC43BN-CS Laptop (Celeron N4020/ 4GB/ 128GB SSD/ Win11 Home),39806,41,intel,celeron,2,4,SSD,128,NONE,intel,integrated,14.1,1366,768
+lenovo,Lenovo ThinkBook 15 G5 21JFA00BIN Laptop (AMD Ryzen 7 7730U/ 8 GB/ 512 GB SSD/ Win11),162646,70,amd,ryzen 7,8,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+msi,MSI Katana 15 B13UDXK-1482IN Gaming Laptop (13th Gen Core i5/ 32GB/ 1TB SSD/ Win11 Home/ 6GB Graph),248966,75,intel,core i5,12,32,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Bravo 15 B7ED-012IN Gaming Laptop (AMD Ryzen 5 7535HS/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),165966,65,amd,ryzen 5,6,8,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+asus,Asus Vivobook 15 X1502ZA-EJ544WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),179246,63,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 16 2023 X1605VA-MB947WS Laptop (13th Gen Core i9/ 16GB/ 512GB SSD/ Win11 Home),271207,71,intel,core i9,14,16,SSD,512,NONE,intel,integrated,16.0,1920,1200
+lenovo,Lenovo IdeaPad Gaming 3 82SB00V3IN Laptop (AMD Ryzen 5 6600H/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),212111,63,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 82RK00VWIN Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),122972,59,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus ROG Strix G16 2023 G614JJ-N3086WS Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),315366,70,intel,core i5,10,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+infinix,Infinix INBook X2 Slim Series XL23 2023 Laptop (11th Gen Core i5/ 16GB/ 1TB SSD/ Win 11 Home),119486,60,intel,core i5,4,16,SSD,1024,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook Pro 15 M6500RC-HN741WS Laptop (AMD Ryzen 7 6800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),242326,70,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 15-fb1016AX  Gaming Laptop (AMD Ryzen 5 7535HS/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),185886,67,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo Yoga 7 82YM0074IN Laptop (AMD Ryzen 7 7735U/ 16GB/ 1TB SSD/ Win11 Home),315366,80,amd,ryzen 7,8,16,SSD,1024,NONE,amd,integrated,14.0,2880,1800
+hp,HP 15S-FQ5202TU Laptop (12th Gen Core i5/ 8 GB RAM/ 512 GB SSD/ Win 11),171976,57,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus15-fb0147AX Gaming Laptop (Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),165253,62,amd,ryzen 5,6,8,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+asus,Asus TUF Gaming F15  FX506HF-HN075W Gaming Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),179246,66,intel,core i5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo LOQ 15IRH8 82XV00F5IN 2023 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),265566,70,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Modern 15 B11M-061IN Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),139406,63,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire Lite AL15 Laptop (AMD Ryzen 5 5500U/ 16GB/ 512GB SSD/ Win11),126126,60,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook 14X K3405ZFB-KM752WS Laptop (12th Gen Core i7 /16GB/ 1TB SSD/Win11/ 4GB Graphic),285486,75,intel,core i7,10,16,SSD,1024,NONE,nvidia,dedicated,14.0,2880,1800
+acer,Acer Aspire Lite 2023 AL15-51 Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11),131136,62,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+infinix,Infinix Zerobook 13 ZL513 2023 Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win 11 Home),192526,63,intel,core i7,14,32,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 14X K3405ZFB-KM541WS Laptop (12th Gen Core i5 /16GB/512GB SSD/Win11),225726,72,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,14.0,2880,1800
+acer,Acer Nitro 5 AN515-58 NH.QLZSI.001 Gaming Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),315366,72,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus TUF Gaming F15 2022 FX507ZC4-HN115W Gaming Laptop (12th Gen Core i5/ 8GB/512GB SSD/ Win11 / 4GB Graph),249830,72,intel,core i5,12,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire 7 A715-76G NH.QMESI.002 Gaming Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),159326,67,intel,core i5,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Zenbook 14X OLED 2023 M5401QA-KM541WS Laptop (Ryzen 5 5600H / 16GB/ 512GB SSD/ Win11 Home),222406,64,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,2880,1800
+hp,HP Pavilion 15-eh2050AU Laptop (AMD Ryzen 5 5625U/ 8GB/ 512GB SSD/ Win11 Home),145084,62,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook Pro 16 OLED 2023 K6602VU-LZ952WS Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),514566,88,intel,core i9,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,3200,2000
+acer,Acer Predator Helios Neo 16 PHN16-71 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),398366,75,intel,core i7,16,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+acer,Acer Predator Helios Neo 16 NH.QLTSI.001 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),348566,70,intel,core i5,14,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+hp,HP 250 G8 7M6L7PA Laptop (11th Gen Core i3/ 8GB/ 1TB 256GB SSD/ Win11),115834,58,intel,core i3,2,8,HDD,1024,SSD,intel,integrated,15.6,1366,768
+hp,HP 15-fc0025AU Laptop (AMD Ryzen 3 7320U/ 8GB/ 512GB SSD/ Win11 Home),107866,54,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP 15-fc0028AU Laptop (AMD Ryzen 5 7520U/ 8GB/ 512GB SSD/ Win11 Home),144088,52,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo Thinkbook 15 21DJA049IH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),136086,66,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Extensa 15 EX215-33 2023 Laptop (Intel Core i3 N305/ 8GB/ 512GB SSD/ Win11 Home),102886,49,intel,core i3,8,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 82KU0238IN Laptop (AMD Ryzen 5 5500U/ 16GB/ 512GB SSD/ Win11 Home),136086,64,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP 15s-fq2717TU Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),103218,60,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell G15-5520 Gaming Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),229046,74,intel,core i5,12,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus ROG Flow X13 GV301RC-LJ073WS Gaming Laptop (AMD Ryzen 9 6900HS/ 16GB/ 1TB SSD/ Win11 Home/ 4GB Graph),320011,79,amd,ryzen 9,8,16,SSD,1024,NONE,nvidia,dedicated,13.4,1920,1200
+asus,Asus VivoBook 15 X515EA-EJ522WS Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11),146046,60,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 82K10198IN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),151561,67,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 16X 2022 M1603QA-MB511WS Laptop (Ryzen 5-5600H/ 16GB/ 512GB SSD/ Win11 Home),175926,65,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,16.0,1920,1200
+acer,Acer TravelMate TMP214-53 Business Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),129446,64,intel,core i5,4,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook 15 Touch X515EA-EZ311WS Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),111186,56,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+apple,Apple MacBook Pro 2022 Laptop (Apple M2/ 8GB/ 256GB SSD/ macOS),365166,43,apple,m2,8,8,SSD,256,NONE,apple,apple,13.3,2560,1600
+asus,Asus Vivobook S15 OLED K3502ZA-L701WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11),242326,70,intel,core i7,14,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15s-eq2144au Laptop (Ryzen 5 5500U/ 8GB/ 512GB SSD/ Win11 Home),134456,60,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Spectre x360 16-aa0665TU Laptop (Intel Core Ultra 7/ 32GB/ 2TB SSD/ Win11 Home),671768,82,intel,core ultra 7,16,32,SSD,2048,NONE,intel,dedicated,16.0,2880,1800
+lenovo,Lenovo V15 G4 82YU00W9IN Laptop (Ryzen 5 7520U/ 8GB/ 512GB SSD/ Win11 Home),119486,60,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 82H803HQIN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11),149366,64,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell 5530 G15 Gaming Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),492986,78,intel,core i9,24,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Spectre x360 14-eu0666TU Laptop (Intel Core Ultra 7/ 32GB/ 1TB SSD/ Win11 Home),550788,76,intel,core ultra 7,16,32,SSD,1024,NONE,intel,dedicated,14.0,2880,1800
+apple,Apple MacBook Pro 16 2023 Laptop (Apple M3 Pro/ 36GB/ 512GB SSD/ macOS),962468,63,apple,m3,12,36,SSD,512,NONE,apple,apple,16.2,3456,2234
+apple,Apple MacBook Pro 16 2023 Laptop (Apple M3 Max/ 36GB/ 1TB SSD/ macOS),1161668,64,apple,m3,14,36,SSD,1024,NONE,apple,apple,16.2,3456,2234
+apple,Apple MacBook Pro 16 2023 Laptop (Apple M3 Pro/ 18GB/ 512GB SSD/ macOS),829668,58,apple,m3,12,8,SSD,512,NONE,apple,apple,16.2,3456,2234
+apple,Apple MacBook Pro 14 2023 Laptop (Apple M3 Pro/ 18GB/ 512GB SSD/ macOS),663668,56,apple,m3,11,8,SSD,512,NONE,apple,apple,14.2,3024,1964
+lenovo,Lenovo Legion Pro 5 16IRX8 82WK00MWIN Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),507926,77,intel,core i7,16,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+dell,Dell Inspiron 3520 IN3520P9K46002ORS1 Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),126126,59,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 15-FA1098TX Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),202486,64,intel,core i5,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 15s-er2004AU Laptop (AMD Ryzen 7 5700U/ 16GB/ 512GB SSD/ Win11),169316,58,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+dell,Dell Inspiron 3530 IN3530RMD8W001ORS1 Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home),219086,53,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire 3 A315-24P NX.KDESI.00B Laptop (AMD Ryzen 5 7520U/ 8GB/ 512GB SSD/ Win11 Home),109526,54,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook 16 2023 X1605ZAB-MB342WS Laptop (12th Gen Core i3/ 16GB/ 512GB SSD/ Win11 Home),159326,62,intel,core i3,6,16,SSD,512,NONE,intel,integrated,16.0,1920,1200
+lenovo,Lenovo Legion Slim 5 82Y9009JIN Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),438870,83,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+ultimus,Ultimus Lite NU14U4INC44BN-CS Laptop (Celeron N4020/ 4GB/ 256GB SSD/ Win11 Home),49766,45,intel,celeron,2,4,SSD,256,NONE,intel,integrated,14.1,1366,768
+zebronics,Zebronics Pro Series Z ZEB-NBC 3S 2023 Laptop (12th Gen Core i3 / 8GB/ 512GB SSD/ Win11 Home),112846,65,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Spectre x360 14-eu0556TU Laptop (Intel Core Ultra 7/ 32GB/ 1TB SSD/ Win11 Home),550788,76,intel,core ultra 7,16,32,SSD,1024,NONE,intel,dedicated,14.0,2880,1800
+hp,HP 15s-fq5185TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),131804,59,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+zebronics,Zebronics Pro Series Y ZEB-NBC 2S Laptop (11th Gen Core i5 / 16GB/ 512GB SSD/ Win11 Home),109526,63,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+zebronics,Zebronics ZEB-NBC 5S 2023 Laptop (12th Gen Core i7 / 16GB/ 1TB SSD/ Win11 Home),175926,72,intel,core i7,10,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+zebronics,Zebronics Pro Series Y ZEB-NBC 1S Laptop (11th Gen Core i3 / 8GB/ 512GB SSD/ Win11 Home),99566,56,intel,core i3,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Pavilion 14-dv2153TU Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win 11),228117,67,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 82SB00V2IN Laptop (AMD Ryzen 5 6600H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),204883,60,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus ROG Strix G15 G513RC-HN251WS Gaming Laptop (AMD Ryzen 7 6800H/ 16GB/ 1TB SSD/ Win11/ 4GB Graph),305406,71,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 15-fa1132TX Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),202486,66,intel,core i5,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+chuwi,Chuwi FreeBook Laptop (12th Gen Core i3/ 12GB/ 512GB SSD/ Win11),109526,50,intel,core i3,6,12,SSD,512,NONE,intel,integrated,13.5,2256,1504
+acer,Acer Swift Go NXKPZSI002 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),242326,64,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+hp,HP 255 G9 841W6PA Laptop (AMD Ryzen 3 3250U/ 8 GB RAM/ 512 GB SSD/ FreeDOS),79676,49,amd,ryzen 3,2,8,SSD,512,NONE,amd,integrated,15.6,1366,768
+gigabyte,Gigabyte G5 MF-F2IN313SH Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),239006,67,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Zenbook Flip 14 OLED UP5401ZA-KU541WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),282166,69,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,3840,2400
+asus,Asus Chromebook CX1500CKA-EJ0241 Laptop (Celeron N4500/ 4GB/ 64GB eMMC/ Chrome OS),59726,35,intel,celeron,2,4,SSD,64,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad 1 15IGL7 82V700BSIN Laptop (Celeron N4020/ 8GB/ 256GB SSD/ Win11 Home),85622,50,intel,celeron,2,8,SSD,256,NONE,intel,integrated,15.6,1366,768
+hp,HP 255 G8 7J035AA Laptop (Ryzen 5-5500U/ 8GB/ 256GB SSD/ Win11),106236,56,amd,ryzen 5,6,8,SSD,256,NONE,amd,integrated,15.6,1920,1080
+acer,Acer Predator Helios Neo 16 2023 PHN16-71 Gaming Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),597566,78,intel,core i9,24,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus TUF Gaming F15 FX506HE-HN382W Gaming Laptop (11th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),242326,71,intel,core i7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 15-fa0187TX Gaming Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 4GB Graph),308096,76,intel,core i7,10,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad 3 82KU024JIN Laptop (AMD Ryzen 7 5700U/ 16GB/ 512GB SSD/ Win11 Home),162646,64,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+msi,MSI Modern 14 C12M-459IN Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),182566,60,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+wings,Wings Nuvobook Pro Laptop (11th Gen Core i7/ 16GB/ 512GB SSD/ Win11),132766,58,intel,core i7,4,16,SSD,512,NONE,intel,integrated,14.0,1080,1920
+wings,Wings Nuvobook S1 Laptop (11th Gen Core i3/ 8GB/ 256GB SSD/ Win11),82966,49,intel,core i3,4,8,SSD,256,NONE,intel,integrated,15.6,1080,1920
+msi,MSI Thin GF63 11UCX-1492IN Gaming Laptop (11th Gen Core i5/ 16GB/ 1TB 256GB SSD/ Win11 Home/ 4GB Graph),205806,73,intel,core i5,6,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+infinix,Infinix INBook X3 Slim XL422 Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win 11 Home),129446,56,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP Pavilion 15-eg3017TU Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home),242356,63,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Thin GF63 11SC-1494IN Gaming Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),175926,65,intel,core i5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Thin GF63 11UC-1490IN Gaming Laptop (11th Gen Core i5/ 16GB/ 1TB 256GB SSD/ Win11 Home/ 4GB Graph),209126,73,intel,core i5,6,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 16-s0089AX Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 1TB SSD/ Win11/ 4GB Graph),289138,76,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.1,1920,1080
+lenovo,Lenovo IdeaPad Slim 5i 82XF003CIN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),234358,62,intel,core i5,12,16,SSD,512,NONE,intel,integrated,16.0,1920,1200
+lenovo,Lenovo LOQ 15IRH8 82XV00F4IN 2023 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),222406,69,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo LOQ 15IRH8 82XV00BRIN 2023 Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 8GB Graph),381766,63,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo LOQ 15IRH8 82XV00BQIN 2023 Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),331966,67,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 240 G8 689U2PA Business Laptop (11th Gen Core i3/ 8GB/ 512 GB SSD/ Win11),116166,63,intel,core i3,2,8,SSD,512,NONE,intel,integrated,14.0,1366,768
+hp,HP Victus 16-D0314TX Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),214140,75,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+hp,HP Omen 16-wf1026TX Gaming Laptop (14th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),585976,85,intel,core i7,20,16,SSD,1024,NONE,nvidia,dedicated,16.1,2560,1440
+jio,Jio JioBook NB1112MM BLU 2023 Netbook Laptop (Octa Core/ 4GB/ 64GB eMMC/ JioOS),48807,24,other,other,8,4,HDD,64,NONE,arm,integrated,11.6,1366,768
+asus,Asus Zenbook 14X OLED 2023 UX5401ZA-KM541WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),248966,65,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+asus,Asus Vivobook 16X 2023 K3605ZV-MB741WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 8GB Graph),348566,76,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+hp,HP Omen 16-wd0880TX Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),315366,70,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.1,2560,1440
+dell,Dell G15-5520 2023 Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home/ 4GB Graph),257266,73,intel,core i5,12,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+chuwi,Chuwi CoreBook X Laptop (10th Gen Core i3/ 8GB/ 512GB SSD/ Win11),82966,50,intel,core i3,2,8,SSD,512,NONE,intel,integrated,14.0,1920,1200
+msi,MSI Modern 14 C11M-029IN Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),132766,62,intel,core i5,4,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP 15s-ey2001AU Laptop (AMD Ryzen 7 5700U/ 16GB/ 512GB SSD/ Win11 Home),185886,63,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+infinix,Infinix Zerobook ZL513 2023 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win 11 Home),162646,57,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 3525 Laptop (AMD Ryzen 5 5500U/ 8GB/ 512GB SSD/ Win11),130276,63,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook 16X 2023 K3605ZU-MB741WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),298999,77,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus TUF Gaming F15 2022 FX507ZC4-HN116W Gaming Laptop (12th Gen Core i5/ 16GB/512GB SSD/ Win11 / 4GB Graph),284856,76,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 16X 2023 K3605ZF-MBN524WS Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),192526,70,intel,core i5,8,8,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus Vivobook 15 X1502ZA-EJ541WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),202486,66,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Pavilion 15-eg3079TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Pro),242426,66,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Modern 14 C12M-671IN Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),179246,65,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+msi,MSI Thin GF63 11UC-1474IN Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),189206,72,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo V15 G3 IAP 82TTA00UIH Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ DOS),109493,53,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Modern 14 C12M-444IN Laptop (12th Gen Core i3/ 16GB/ 512GB SSD/ Win11 Home),122806,62,intel,core i3,6,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook Pro 15 M6500QF-HN521WS Laptop (Ryzen 5 5600HS/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),199166,60,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus VivoBook 14 X415EA-EK326WS Notebook (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),106206,59,intel,core i3,2,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+apple,Apple MacBook Air 15 2023 Laptop (Apple M2/ 8GB/ 512GB SSD/ MacOS),481366,56,apple,m2,8,8,SSD,512,NONE,apple,apple,15.3,2880,1864
+infinix,Infinix INBook X2 Slim Series Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win 11 Home),86286,57,intel,core i3,2,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+acer,Acer Aspire 3 A315-59 NX.K6TSI.00C Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),106206,57,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 3520 D560872WIN9S Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),190236,62,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer One 14 Z8-415UN.599SI.009 Laptop (11th Gen Core i3 / 8GB/ 256GB SSD/ Win11 Home),99566,59,intel,core i3,2,8,SSD,256,NONE,intel,integrated,14.0,1920,1080
+hp,HP Victus 15-fb0131AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),165966,65,amd,ryzen 5,6,8,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+asus,Asus Vivobook 15 X1502ZA-EJ542WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),187580,64,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 15 M1502QA-EJ742WS Laptop (Ryzen 7 5800H/ 16GB/ 512GB SSD/ Win11),189206,58,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+acer,Acer Aspire 7 A715-76G NH.QMFSI.004 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),202486,70,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire 5 14 A514-56GM 2023 Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),189206,67,intel,core i5,10,16,SSD,512,NONE,nvidia,dedicated,14.0,1920,1080
+asus,ASUS TUF Gaming A16 Advantage Edition FA617XS-N3025WS Gaming Laptop (AMD Ryzen 9 7940HS / 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),398366,80,amd,ryzen 9,8,16,SSD,1024,NONE,amd,dedicated,15.6,1920,1200
+asus,Asus ROG Strix G16 2023 G614JV-N4141WS Gaming Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),597566,77,intel,core i9,24,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+asus,Asus ROG Strix G16 2023 G614JI-N4151WS Gaming Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),630766,79,intel,core i9,24,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+asus,Asus ROG Strix G16 2023 G614JU-N3200WS Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),403343,78,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus Vivobook 15 X1502ZA-EJ532WS Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),158795,64,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15s-fr4001TU Laptop (11th Gen Core i5/16GB/ 512GB SSD/ Win11 Home),174266,65,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Katana 15 B12UDXK-1005IN Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),225726,73,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 15s-fr5009TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),133430,59,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15-fd0013TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),205806,57,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 16X 2023 K3605VC-MB542WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),298766,67,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus TUF Gaming F17 FX706HF-HX018W Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),184887,64,intel,core i5,6,8,SSD,512,NONE,nvidia,dedicated,17.3,1920,1080
+hp,HP 15-eg3036TU Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home),297106,69,intel,core i7,12,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Predator Helios Neo 16 PHN16-71 Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),398366,75,intel,core i7,16,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+msi,MSI Cyborg 15 A12UCX-264IN Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),217426,69,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 15-fc0026AU Laptop (AMD Ryzen 3 7320U/ 8GB/ 512GB SSD/ Win11 Home),116166,54,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook S14 Flip 2022 TN3402QA-LZ741WS Laptop (AMD Ryzen 7-5800H/ 16GB/ 512GB SSD/Win11),232366,70,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,14.0,1920,1200
+asus,Asus Vivobook S15 OLED 2023 S5504VA-MA543WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),262246,65,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,2880,1620
+asus,Asus Vivobook S15 OLED 2023 S5504VA-MA953WS Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11),351053,71,intel,core i9,14,16,SSD,1024,NONE,intel,integrated,15.6,2880,1620
+asus,Asus Vivobook 15 2023 X1504VA-NJ324WS Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11),142726,59,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+honor,Honor MagicBook X14 2023 FRI-F56 Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),182566,66,intel,core i5,8,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo E41-55 Laptop (Athlon Silver 3050U/ 8GB/ 256GB SSD/ Win11),73006,53,amd,other,2,8,SSD,256,NONE,amd,integrated,14.0,1920,1080
+lenovo,Lenovo V15 G3 82TTA00VIH Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/Win11),110888,53,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 15-fb0108AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),169286,67,amd,ryzen 5,6,8,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+dell,Dell Vostro 3425 M552321WIN9S Laptop (AMD Ryzen 5 5625U/ 16GB/ 512GB SSD/ Win11 Home),169286,68,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1920,1080
+msi,MSI Modern 14 C7M-062IN Laptop (Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11),146046,62,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1920,1080
+acer,Acer Extensa 15 EX215-33 Laptop (Intel Core i3 N305/ 8GB/ 256GB SSD/ Win11 Home),92926,49,intel,core i3,8,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Sword 15 A12VF-401IN Gaming Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),351886,79,intel,core i7,10,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP ProBook 445 G8 Business Laptop (AMD Ryzen 7 5800U/ 8GB/ 512GB SSD/ Win11),156006,68,amd,ryzen 7,8,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+acer,Acer Aspire 5 UN.K3JSI.004 Laptop (12th Gen Core i5/ 12GB/ 512GB SSD/ Win11 Home),156006,67,intel,core i5,10,12,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 15 OLED 2023 M1505YA-LK541WS Laptop (Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),179246,65,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook Go 15 2023 E1504FA-NJ543WS Laptop (Ryzen 5 7520U / 16GB/ 512GB SSD/ Win11 Home),161282,60,amd,ryzen 5,4,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook 16 2023 M1605YA-MB741WS Laptop (Ryzen 7 7730U/ 16GB/ 512GB SSD/ Win11 Home),235686,65,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,16.0,1920,1200
+samsung,Samsung Galaxy Book 3 NP750XFG-KB1IN Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11),232366,56,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+samsung,Samsung Galaxy Book 3 NP750XFG-KA3IN Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),252286,60,intel,core i7,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+infinix,Infinix INBook Y1 Plus Laptop (10th Gen Core i3/ 8GB/ 256GB SSD/ Win 11 Home),82966,52,intel,core i3,2,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 15-fb0107AX Gaming Laptop (Ryzen 7-5800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),235686,69,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus VivoBook 15 X1500EA-EJ3379WS Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),102554,50,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 15-fb0777AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),172606,67,amd,ryzen 5,6,8,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+hp,HP Victus 16-d0311TX Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),192526,73,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+hp,HP 15s-fr4000TU Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),160854,62,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Envy x360 13-bf0121TU  Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),265566,71,intel,core i5,10,16,SSD,512,NONE,intel,integrated,13.4,1920,1200
+hp,HP Pavilion 14-dv2014TU Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win 11),212446,64,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP 255 G8 6X4B2PA Laptop (AMD Athlon 3050/ 4GB/ 256GB SSD/ DOS),64072,39,amd,other,2,4,SSD,256,NONE,amd,integrated,15.6,1920,1080
+dell,Dell Inspiron 5420 Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),232396,62,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus VivoBook 14 2022 X1402ZA-MW511WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),207832,73,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo Legion 5 82JU00SYIN Laptop (AMD Ryzen 7 5800H/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),331966,78,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+msi,MSI Creator M16 A12UD-633IN Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),278846,78,intel,core i7,14,16,SSD,512,NONE,nvidia,dedicated,16.0,2560,1660
+hp,HP Victus 15-fb0050AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),198771,71,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Pavilion 15s-fq5112TU Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),189236,54,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus ROG Zephyrus G15 2022 GA503RW-LN067WS Gaming Laptop (AMD Ryzen 9 6900HS/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),481366,85,amd,ryzen 9,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,2560,1440
+hp,HP 15s-fq2673TU Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),134821,58,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 82K201ULIN Laptop (Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),215766,74,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+apple,Apple MacBook Air 2022 Laptop (Apple M2/ 8GB/ 512GB SSD/ MacOS),441526,45,apple,m2,8,8,SSD,512,NONE,apple,apple,13.6,2560,1664
+apple,Apple MacBook Pro 2022 Laptop (Apple M2/ 8GB/ 512GB SSD/ macOS),454806,45,apple,m2,8,8,SSD,512,NONE,apple,apple,13.3,2560,1600
+samsung,Samsung Galaxy Book2 15 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),182566,59,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad D330 82H0001YIN Laptop (Celeron N4020/ 4GB/ 128GB eMMC/ Win10),82966,49,intel,celeron,4,4,HDD,128,SSD,intel,integrated,10.1,1200,800
+hp,HP Pavilion 15-eg2009TU Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),212446,62,intel,core i5,12,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 247 G8 67U77PA Laptop (Athlon P-3045B HD/ 8GB/ 1TB HDD/ Win11),82966,52,amd,other,2,8,HDD,1024,NONE,amd,integrated,14.0,1366,768
+samsung,Samsung Galaxy Book2 Pro 15 Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11),388406,68,intel,core i7,8,16,SSD,512,NONE,intel,integrated,15.6,1080,1920
+hp,HP 14s-fq1092au Laptop (Ryzen 5 5500U/ 8GB/ 512GB SSD/ Win11 Home),138610,64,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+realme,Realme Book Slim Laptop (11th Gen Core i3/ 8GB/ 256GB SSD/ Win10),122806,52,intel,core i3,2,8,SSD,256,NONE,intel,integrated,14.0,1440,2160
+dell,Dell Inspiron 3501 Laptop (11th Gen Core i5/ 8GB/ 1TB 256GB SSD/ Win10),173300,56,intel,core i5,4,8,HDD,1024,SSD,intel,integrated,15.6,1920,1080
+avita,Avita Pura NS14A6 Laptop (AMD Ryzen 5/ 8GB/ 512GB SSD/ Win10),71014,56,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+hp,HP EliteBook 840 G6 (8LX79PA) Laptop (8th Gen Core i5/ 8GB/ 512GB SSD/ Win10),300340,56,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+dell,Dell Inspiron 5370 Laptop (8th Gen Core i7/ 8GB/ 256GB SSD/ Win10/ 4GB Graph),292126,67,intel,core i7,4,8,SSD,256,NONE,nvidia,dedicated,13.3,1920,1080
+chuwi,Chuwi Gemibook X Pro Laptop (Intel Celeron N100/ 8 GB/ 256 GB SSD/ Win11 Home),73006,50,intel,other,4,8,SSD,256,NONE,intel,integrated,14.1,1920,1080
+chuwi,Chuwi CoreBook X Laptop (10th Gen Core i5/ 16GB/ 512GB SSD/ Win11),116166,54,intel,core i5,4,16,SSD,512,NONE,intel,integrated,14.0,2160,1440
+avita,Avita Liber Liber E AM14A2INL54F Laptop (AMD Ryzen 5 5500U/ 8GB/ 256GB SSD/ Win11 Home),109390,50,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+lenovo,Lenovo ThinkPad X1 Fold Gen 1 Laptop (Intel Core i5/ 8GB/ 1TB SSD/ Win10 Pro),498000,64,intel,core i5,5,8,SSD,1024,NONE,intel,integrated,13.3,2048,1536
+dell,Dell G16 7630 Gaming Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),692186,80,intel,core i9,24,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+hp,HP Envy x360 15-fh0014AU Laptop (AMD Ryzen 5 7530U/ 8GB/ 512GB SSD/ Win11 Home),263830,64,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 83ER008DIN Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),189206,57,intel,core i5,8,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Ideapad Flex 5 14IAU7 82R700KHIN Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),182566,58,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1200
+hp,HP 250 G9 95X38PA Laptop (12th Gen Core i5/ 8GB/ 512 GB SSD/ DOS),190900,51,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 240 G9 8J0S5PA Laptop (12th Gen Core i5/ 8GB/ 512 GB SSD/ DOS),181268,58,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1366,768
+lenovo,Lenovo ThinkBook 14 21DH00C1IH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ DOS),209156,62,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo IdeaPad Slim 1 82R400BGIN Laptop (AMD Ryzen 5 5500U/ 8GB/ 512GB SSD/ Win11 Home),121146,50,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo V14 82KAA0AMIH Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ DOS),152686,58,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,1366,768
+lenovo,Lenovo V14 82KAA01QIH Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win10 Home),156006,62,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+msi,MSI Thin GF63 11UC-1494IN Gaming Laptop (11th Gen Core i7/ 16GB/ 1TB 256GB SSD/ Win11 Home/ 4GB Graph),220282,69,intel,core i7,8,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3i 82RK011EIN Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),209126,66,intel,core i7,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,"Dell Inspiron 3535 Laptop (AMD Ryzen R3-7320U,/ 8GB/ 512GB SSD/ Win11)",121946,53,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP 15s-EQ2084AU Laptop (AMD Ryzen 7 5700U/ 16GB/ 512GB SSD/ Win11 Home),172311,62,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+dell,Dell Inspiron 7430 14 2 in 1 Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11),198834,58,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo Ideapad Slim 5 82XD006GIN Laptop (13th Gen Core i5/ 16 GB RAM/ 1TB SSD/ Win 11),245646,57,intel,core i5,8,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 5 14IAH8 83BF0043IN Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11),205806,60,intel,core i5,8,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+hp,HP 250 G9 95X40PA Laptop (12th Gen Core i7/ 8GB/ 512 GB SSD/ DOS),223396,52,intel,core i7,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 3520 IN3520RVTGV001ORB1 Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),116166,49,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Thinkpad E14 G4 21E3S00P00 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ DOS),248668,63,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+dell,Dell Latitude 7440 14 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Pro),504640,59,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 3 82H803U0IN Laptop (11th Gen Core i3/ 8GB/ 256GB SSD/ Win11),106206,51,intel,core i3,2,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire 3 15 A315-510P UN.KDHSI.019 Laptop (Intel Core i3 N305/ 8GB/ 512GB SSD/ Win11 Home),99566,47,intel,core i3,8,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire Lite 15 AL15-51 2023  Laptop (11th Gen Core i5/ 16GB/ 1TB SSD/ Win11),154380,64,intel,core i5,4,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo ThinkPad X1 Carbon 21HMS00000 Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Pro),727046,64,intel,core i7,10,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+avita,Avita Liber AM15A2INT56F Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),108066,51,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer TravelMate P2 TMP214-53 14 Business Laptop (11th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),165966,64,intel,core i7,4,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+acer,Acer Aspire Lite AL15-52 Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),149396,64,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire Lite AL15-52 2023 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),142756,62,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+avita,Avita Pura S101 Laptop (Celeron N4020/ 8GB/256GB SSD/ Win11 Home),64477,41,intel,celeron,2,8,SSD,256,NONE,intel,integrated,14.0,1920,1080
+apple,Apple MacBook Pro 14 2023 Laptop (Apple M3/ 8GB/ 1TB SSD/ macOS),630468,53,apple,m3,8,8,SSD,1024,NONE,apple,apple,14.2,3024,1964
+apple,Apple MacBook Pro 14 2023 Laptop (Apple M3 Pro/ 18GB/ 1TB SSD/ macOS),796468,58,apple,m3,12,8,SSD,1024,NONE,apple,apple,14.2,3024,1964
+lenovo,Lenovo Yoga Slim 7i Carbon 13IRP8 83AY003CIN Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home),408990,67,intel,core i7,12,16,SSD,1024,NONE,intel,integrated,13.3,2560,1600
+asus,Asus Chromebook CX1500CKA-EJ0247 Laptop (Celeron N4500/ 8GB/ 128GB eMMC/ Chrome OS),108979,37,intel,celeron,2,8,HDD,128,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Ideapad Gaming 3 15ARH7 82SB00QJIN Laptop  (AMD Ryzen 5 7535HS / 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),229046,66,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire 5 A515-57 NX.K3JSI.006 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),156006,63,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo LOQ 15APH8 82XT004KIN Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11/ 8GB Graph),358264,75,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 Gen 6 82K2028QIN Laptop (AMD Ryzen 5 5500H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),172288,65,amd,ryzen 5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Chromebook CX1400FKA-EC0168 Laptop (Celeron N4500/ 8GB/ 128GB eMMC/ Chrome OS),100260,44,intel,celeron,2,8,HDD,128,NONE,intel,integrated,14.0,1920,1080
+avita,Avita Pura S102 Laptop (Celeron N4020/ 8GB/ 512GB SSD/ Win11 Home),69716,43,intel,celeron,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+apple,Apple MacBook Pro 14 2023 Laptop (Apple M3/ 8GB/ 512GB SSD/ macOS),564068,51,apple,m3,8,8,SSD,512,NONE,apple,apple,14.2,3024,1964
+hp,HP Spectre x360 14-ef2036TU Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),515592,70,intel,core i7,10,16,SSD,512,NONE,intel,integrated,13.5,3000,2000
+hp,HP Omen 16-xd0005AX Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),371650,78,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.1,1920,1080
+hp,HP ProBook 440 G9 821M3PA Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),254308,69,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1366,768
+hp,HP 15s-FR5012TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),136086,57,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire Lite AL15-51 15 2023 Laptop (11th Gen Core i5/ 8GB/ 1TB SSD/ Win11),154346,63,intel,core i5,4,8,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo S14 Gen 3 82TW000VIH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ DOS),156006,57,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP Victus 15-fa1134TX Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),330240,77,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo Legion Pro 7 82WQ007UIN Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win11/ 16GB Graph),1192195,86,intel,core i9,24,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+microsoft,Microsoft Surface Laptop Go 3 XK1-00045 (12th Gen Core i5/ 8GB RAM/ 256 GB SSD/ Win 11),265566,58,intel,core i5,10,8,SSD,256,NONE,intel,integrated,12.4,1536,1024
+acer,Acer Aspire 5 A514-56M NX.KH6SI.001 Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),189206,56,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+acer,Acer Aspire Lite AL15-41 Laptop (AMD Ryzen 5 5500U/ 16GB/ 1TB SSD/ Win11),132136,62,amd,ryzen 5,6,16,SSD,1024,NONE,amd,integrated,15.6,1920,1080
+dell,Dell Inspiron 7430 IC7430MH5K0M01ORS1 Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11),295446,64,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Gaming 3 82K101LJIN Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),183230,70,intel,core i5,4,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Omen 16-XD0007ax Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),375126,76,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.1,1920,1080
+asus,Asus Vivobook Pro 15 OLED M6500QC-LK751WS Laptop (Ryzen 7 5800HS/ 16GB/ 1TB SSD/ Win11/ 4GB Graph),287180,67,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Vector GP68 HX 13VG-214IN Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),663966,80,intel,core i7,16,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+dell,Dell G15-5530 15 2023 Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),350226,75,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Flex 5 82R9008FIN Laptop (AMD Ryzen 5 5500U/ 16GB/ 512GB SSD/ Win11 Home),205806,69,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1920,1200
+asus,Asus Vivobook Go 14 E1404FA-NK547WS Laptop (Ryzen 5 7520U/ 8GB/ 512GB SSD/ Win11),157866,58,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+asus,Asus Vivobook 15X OLED M3504YA-LK552WS Laptop (AMD Ryzen 5 7530U/ 16GB/ 1TB SSD/ Win11 Home),215766,65,amd,ryzen 5,6,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Thinkpad L14 Gen 2 20X1S10V00 Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ DOS),164336,54,intel,core i3,2,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo V15 G4 Laptop (AMD Ryzen 5 7520U/ 8GB/ 512GB SSD/ Win11 Home),122806,53,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Omen 16-k0789TX Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),302116,72,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+lenovo,Lenovo IdeaPad 3 15IAU7 82RK00WXIN Laptop (12th Gen Core i3/ 8GB/ 256GB SSD/ Win11 Home),114838,57,intel,core i3,6,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad 1 15AMN7 82VG00ERIN Laptop (AMD Ryzen 3 7320U / 8GB/ 512GB SSD/ Win11 Home),107866,56,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook 16X K3605VU-MB541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),329048,69,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101R9IN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),184924,69,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 250 G9 7M657PA Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),119188,60,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1366,768
+lenovo,Lenovo IdeaPad Gaming 3 82SB00V5IN Laptop (AMD Ryzen 7 6800H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),233030,67,amd,ryzen 7,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo Yoga 7 82YL0095IN Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home),306070,75,intel,core i5,12,16,SSD,1024,NONE,intel,integrated,14.0,2880,1800
+asus,Asus Vivobook Go 14 E410KA-EK013W Laptop (Celeron N4500/ 8GB/ 256GB SSD/ Win11 Home),92926,45,intel,celeron,2,8,SSD,256,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook Pro 15 OLED M6500QC-LK741WS Laptop (Ryzen 7 5800HS/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),265500,63,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Chromebook CB314-3H NX.K04SI.008 Laptop (Intel Celeron N4500/ 8GB/ 64GB SSD/ Chrome OS),79646,38,intel,celeron,2,8,SSD,64,NONE,intel,integrated,14.0,1080,1920
+dell,Dell Inspiron 3520 IN3520KTMFJS01ORS1 Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),170936,58,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15ACH6 82K20289IN Laptop (AMD Ryzen 5 5500H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),172606,63,amd,ryzen 5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell Inspiron 7430 2 in 1 2023 Laptop (13th Gen Core i3/ 8GB/ 256GB SSD/ Win11),189206,57,intel,core i3,6,8,SSD,256,NONE,intel,integrated,14.0,1920,1200
+hp,HP Omen 17-ck2011TX Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win11/ 16GB Graph),1137100,88,intel,core i9,24,32,SSD,1024,NONE,nvidia,dedicated,17.3,2560,1440
+zebronics,Zebronics Pro Series Z ZEB-NBC 4S 2023 Laptop (12th Gen Core i5 / 8GB/ 512GB SSD/ Win11 Home),132766,66,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+zebronics,Zebronics ZEB-NBC 2S 2023 Laptop (11th Gen Core i5 / 8GB/ 512GB SSD/ Win11 Home),109526,60,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+primebook,Primebook PBMTWIFI11064 Wi-Fi Laptop (MediaTek MT8183/ 4GB/ 64B eMMC/ Prime OS),43126,31,other,other,8,4,HDD,64,NONE,arm,integrated,11.6,1366,768
+acer,Acer Aspire 5 A515-58GM 15 2023 Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graphics),212476,65,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Nitro V ANV15-51 NH.QNASI.001 Gaming Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),219086,62,intel,core i5,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+ultimus,Ultimus Lite NU14U4INC54BN-CS Laptop (Celeron N4020/ 8GB/ 256GB SSD/ Win11 Home),54746,47,intel,celeron,2,8,SSD,256,NONE,intel,integrated,14.1,1366,768
+hp,HP 15s-fy5007TU Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),176590,62,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+zebronics,Zebronics ZEB-NBC 5S Laptop (12th Gen Core i7 / 16GB/ 512GB SSD/ Win11 Home),169286,72,intel,core i7,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Pavilion Plus 14-ey0789AU Laptop (AMD Ryzen 7 7840H/ 16GB/ 1TB SSD/ Win 11),307398,70,amd,ryzen 7,8,16,SSD,1024,NONE,amd,integrated,14.0,2880,1800
+hp,HP Omen 17-ck2008AX Gaming Laptop (13th Gen Core i7/ 16 GB RAM/ 1TB SSD/ Win 11/ 12GB Graphics),861536,85,intel,core i7,16,16,SSD,1024,NONE,nvidia,dedicated,17.3,2560,1440
+hp,HP Omen 16-u0024TX Gaming Laptop (13th Gen Core i9/ 32GB/ 2TB SSD/ Win11 Home/ 8GB Graph),972756,88,intel,core i9,24,32,SSD,2048,NONE,nvidia,dedicated,16.1,2560,1600
+hp,HP Omen 17-cm2002TX Gaming Laptop (13th Gen Core i7/ 16 GB RAM/ 512 GB SSD/ Win 11/ 8 GB Graphics),551116,79,intel,core i7,16,16,SSD,512,NONE,nvidia,dedicated,17.3,1920,1080
+hp,HP Omen 16-u0022TX Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),559420,78,intel,core i7,16,16,SSD,512,NONE,nvidia,dedicated,16.1,2560,1600
+asus,Asus TUF Gaming F17 FX707ZC4-HX048WS Gaming Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),285486,70,intel,core i5,12,8,SSD,512,NONE,nvidia,dedicated,17.3,1920,1080
+lenovo,Lenovo Yoga Slim 6 14IRH8 83E00015IN Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home),282166,58,intel,core i5,12,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo Yoga Slim 6 83E00006IN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),266230,57,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Pro 5 83AQ005SIN Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),362510,63,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo IdeaPad Gaming 3 82K2027CIN Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),179910,65,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101R3IN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),179910,69,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus CX1101CMA-GJ0004 Chromebook (Celeron N4020/ 4GB/ 32GB eMMC/ Chrome OS),49766,38,intel,celeron,2,4,HDD,32,NONE,intel,integrated,11.6,1366,768
+asus,Asus TUF Gaming F17 FX706HF-HX019W Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),221503,66,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,17.3,1920,1080
+asus,Asus Vivobook 15 X1502ZA-EJ531WS Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),179246,51,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Chromebook 14 CX1400CKA-EK0266 Laptop (Celeron N4500/ 8GB/ 128GB eMMC/ Chrome OS),69686,38,intel,celeron,2,8,SSD,128,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo IdeaPad Flex 5 14IRU8 82Y00051IN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),259590,64,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad 1 15ALC7 82R400BSIN Laptop (AMD Ryzen 5 5500U / 8GB/ 512GB SSD/ Win11 Home),132766,56,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+dell,Dell Inspiron 5430 IN5430FR0KC001ORS1 Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11),205806,53,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP 15s-fy5006TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),129446,57,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Yoga Slim 6 14IRH8 83E00007IN Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),309390,58,intel,core i7,14,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo Legion Pro 5 82WM00B7IN Gaming Laptop ( AMD Ryzen 7 7745HX/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),545110,84,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo Legion Pro 7 2023 82WQ007TIN Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win11 Home/ 12GB Graph),992646,85,intel,core i9,24,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo Legion Slim 5 82YA00DXIN Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),462110,78,intel,core i7,10,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo IdeaPad Slim 5 82XD005RIN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),233030,58,intel,core i5,8,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo Legion 5 Pro 82JQ010EIN Laptop (AMD Ryzen 7 5800H/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),343271,77,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo IdeaPad 1 82VG00ESIN Laptop (AMD Ryzen 5 7520U / 8GB/ 512GB SSD/ Win11 Home),132766,57,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+msi,MSI CreatorPro Z16 HX B13VKTO-214IN Laptop (13th Gen Core i9/ 64GB/ 2TB SSD/ Win11/ RTX 3000 Ada),1493966,89,intel,core i9,24,4,SSD,2048,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo IdeaPad Flex 5 14IRU8 82Y0004TIN Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),298800,65,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad 3 15IAU7 82RK00XDIN Laptop (12th Gen Core i3/ 8GB/ 256GB SSD/ Win11 Home),116166,57,intel,core i3,6,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Bravo 15 B7ED-011IN Gaming Laptop (AMD Ryzen 7 7735HS/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),265566,70,amd,ryzen 7,8,16,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+hp,HP 14s-dr3002TU Laptop (Intel Celeron N4500/ 8GB/ 512GB SSD/ Win11 Home),96246,47,intel,celeron,2,8,SSD,512,NONE,intel,integrated,14.0,1366,768
+acer,Acer TravelMate P2 TMP214-53 Business Laptop (11th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home),165966,67,intel,core i7,4,16,SSD,1024,NONE,intel,integrated,14.0,1920,1080
+acer,Acer Aspire 5 2023 A515-58GM Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graphics),204844,65,intel,core i5,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 1 82VG00EVIN Laptop (AMD Ryzen 3 7320U/ 8GB/ 512GB SSD/ Win11 Home),109526,57,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 82K101PCIN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),165966,67,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 16 2023 X1605VA-MB957WS Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11 Home),287807,73,intel,core i9,14,16,SSD,1024,NONE,intel,integrated,16.0,1920,1200
+acer,Acer Chromebook CB314-3H NX.K04SI.007 Laptop (Intel Celeron N4500/ 8GB/ 128GB SSD/ Chrome OS),84626,38,intel,celeron,2,8,SSD,128,NONE,intel,integrated,14.0,1280,1024
+dell,Dell Inspiron 15 3511 IN35117W5CCS01ORB1 Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11),225852,53,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Zbook FireFly 14 G8 4F0W6PA Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 ),298796,70,intel,core i5,4,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook S14 Flip TN3402QA-LZ551WS Laptop (AMD Ryzen 5 5600H/ 16GB/ 1TB SSD/Win11),230530,58,amd,ryzen 5,6,16,SSD,1024,NONE,amd,integrated,14.0,1920,1200
+asus,Asus Vivobook S14 Flip TN3402QA-LZ751WS Laptop (AMD Ryzen 7/ 16GB/ 1TB SSD/Win11),245646,62,amd,ryzen 7,8,16,SSD,1024,NONE,amd,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad 1 15AMN7 82VG00J5IN Laptop (AMD Ryzen 5 7520U / 8GB/ 512GB SSD/ Win11 Home),132766,58,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 82SB00V4IN Laptop (AMD Ryzen 5 6600H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),211523,60,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 82K2028AIN Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),165966,62,amd,ryzen 5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 82RK011DIN Laptop (12th Gen Core i3/ 8GB/ 256GB SSD/ Win11),109526,51,intel,core i3,6,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Vostro 3520 Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11),187048,57,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad 1 15AMN7 82VG00EQIN Laptop (AMD Athlon 7120U / 8GB/ 512GB SSD/ Win11 Home),100230,46,amd,other,2,8,SSD,512,NONE,amd,integrated,15.6,1366,768
+dell,Dell Inspiron 15 3520 IN352092K4N001ORS1 Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),188841,57,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Vostro 3530 Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11),189206,56,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire 5 A515-57 UN.K3JSI.013 Laptop (12th Gen Core i3/ 16GB/ 512GB SSD/ Win11 Home),132766,58,intel,core i3,6,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo V14 G4 Laptop (AMD Ryzen 3 7320U / 8GB/ 512GB SSD/ Win11 Home),99566,51,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+lenovo,Lenovo V15 G3 82TTA02UIH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),156006,63,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 3520 15 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),169286,57,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Thinkpad E15 G4 21DJA0Y0IN Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),182566,64,intel,core i7,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Vostro 3525 Laptop (AMD Ryzen 5-5500U/ 8GB/ 512GB SSD/ Win11),129446,56,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+msi,MSI Creator Pro M16 B13VJ-1272IN Gaming Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win 11/ 8GB Graph),652645,83,intel,core i7,14,32,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus ROG Strix G16 2023 G614JJ-N3088WS Gaming Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),331966,70,intel,core i5,10,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+hp,HP 240 G9 821J4PA Laptop (12th Gen Core i5/ 8GB/ 512 GB SSD/ Win11),248996,64,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1366,768
+lenovo,Lenovo IdeaPad Slim 3i 82X70032IN Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),141096,43,intel,core i3,5,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Flex 5 Gen 8 82XX0070IN Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),225726,69,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1920,1200
+asus,Asus ROG Strix G17 G713RC-HX109WS Gaming Laptop (AMD Ryzen 7 6800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),286147,71,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,17.3,1920,1080
+lenovo,Lenovo IdeaPad 3 82H802L3IN Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),121678,58,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP ZBook Firefly 16 G9 6V2X7PA Workstation PC Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11),378476,75,intel,core i7,10,16,SSD,1024,NONE,intel,integrated,16.0,1920,1200
+dell,Dell Inspiron 3530 15 Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home),219086,57,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 82H803HPIN Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),162646,59,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101PCIN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),165966,65,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire Lite 15 AL15-51 Laptop (11th Gen Core i3/16GB/ 512GB SSD/ Win11),116166,62,intel,core i3,2,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Yoga 6 13ABR8 83B2007UIN Laptop (AMD Ryzen 7 7730U/ 16GB/ 1TB SSD/ Win11 Home),288806,71,amd,ryzen 7,8,16,SSD,1024,NONE,amd,integrated,13.3,1920,1200
+lenovo,Lenovo IdeaPad Flex 5 82R900D4IN Laptop (AMD Ryzen 7 5700U/ 16GB/ 512GB SSD/ Win11 Home),219086,63,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,14.0,1920,1200
+microsoft,Microsoft Surface Laptop Go 3 (12th Gen Core i5/ 16 GB RAM/ 256 GB SSD/ Win 11),323666,60,intel,core i5,10,16,SSD,256,NONE,intel,integrated,12.4,1536,1024
+ultimus,Ultimus Neo NU14U3INT54BN Laptop (10th Gen Core i3/ 8GB/ 256GB SSD/Win11 Home),76071,52,intel,core i3,2,8,SSD,256,NONE,intel,integrated,14.1,1920,1080
+lenovo,Lenovo Legion Slim 7 16IRH8 82Y3007QIN Gaming Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),617486,89,intel,core i9,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,3200,2000
+dell,Dell Inspiron 7430 2023 Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11),330273,62,intel,core i7,10,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo Legion Slim 5 16APH8 82Y90042IN Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11/ 8GB Graph),428246,83,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo Legion Slim 5 82Y9009KIN Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),378446,79,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+hp,HP Victus 15-fb0158AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),172606,67,amd,ryzen 5,6,8,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101PBIN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),172606,67,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Pavilion x360 14-ek1021TU Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),301087,70,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15IAH7 82S9014LIN Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),232366,66,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo S14 Gen 3 82TW001DIH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),159326,56,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo Yoga Pro 7 82Y700A2IN Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home),332630,65,intel,core i7,14,16,SSD,1024,NONE,intel,integrated,14.5,2560,1600
+hp,HP 15-fc0027AU Laptop (AMD Ryzen 3 7320U/ 8GB/ 512GB SSD/ Win11 Home),133132,57,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo Legion Slim 5 16APH8 82Y9008MIN Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11/ 8GB Graph),456466,83,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo ThinkBook 15 Gen 5 21JF0026MJ Laptop (AMD Ryzen 7 7730U/ 16GB/ 512GB SSD/ Win11),179246,69,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,16.0,1920,1080
+acer,Acer Aspire 5 A515-58M NX.KHFSI.003 Gaming Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),142726,50,intel,core i3,5,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus VivoBook 15 X515MA-BR022WS Laptop (Celeron N4020/ 8GB/ 512GB SSD/ Win11 Home),93590,43,intel,celeron,2,8,SSD,512,NONE,intel,integrated,15.6,1366,768
+fujitsu,Fujitsu CH 4ZR1L82434 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),245646,67,intel,core i7,10,16,SSD,512,NONE,intel,integrated,13.3,1920,1080
+asus,Asus Vivobook 15X OLED M3504YA-LK752WS Laptop (AMD Ryzen 7 7730U/ 16GB/ 1TB SSD/ Win11 Home),243897,67,amd,ryzen 7,8,16,SSD,1024,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook 15 X1502ZA-EJ993WS Laptop (12th Gen Core i3/ 16GB/ 512GB SSD/ Win11),149366,59,intel,core i3,6,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 15 X1504ZA-NJ542WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),200458,60,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Pavilion 15-eg3018TU Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home),251954,59,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15s-fq3066TU Laptop (Intel Celeron N4500/ 8GB/ 512GB SSD/ Win11 Home),92926,51,intel,celeron,2,8,SSD,512,NONE,intel,integrated,15.6,1366,768
+lenovo,Lenovo Ideapad 3 15ITL06 82H803GUIN Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),122840,52,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Flex 5 82Y00053IN Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),292790,58,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad 3 82H803HRIN Laptop (11th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),209126,60,intel,core i7,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook Pro 15 M6500QC-HN751WS Laptop (AMD Ryzen 7 5800HS/ 16 GB RAM/ 1 TB SSD/ Win 11/ 4 GB Graphics),245646,64,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook Pro 15 M6500QC-HN551WS Laptop (AMD Ryzen 5 5600HS/ 16 GB RAM/ 1 TB SSD/ Win 11/ 4 GB Graphics),232366,63,amd,ryzen 5,6,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo Ideapad Slim 5 82XE004QIN Laptop (AMD Ryzen 5 7530U/ 16 GB RAM/ 512 GB SSD/ Win 11),220411,62,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1920,1200
+hp,HP 250 G9 7N179PA Laptop (12th Gen Core i5/ 8 GB RAM/ 512 GB SSD/ Win 11),202516,58,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1366,768
+lenovo,Lenovo Ideapad Slim 5 82XF007CIN Laptop (13th Gen Core i5/ 16 GB RAM/ 1 TB SSD/ Win 11),239006,58,intel,core i5,12,16,SSD,1024,NONE,intel,integrated,16.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 5i 83BG000DIN Laptop (12th Gen Core i5/ 16 GB RAM/ 512 GB SSD/ Win 11),205371,58,intel,core i5,8,16,SSD,512,NONE,intel,integrated,16.0,1920,1200
+asus,Asus Vivobook 16X 2023 K3605ZC-MBN752WS Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 4GB Graph),328646,73,intel,core i7,10,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 3 82RK00VVIN Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),122806,53,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 3530 IN3530RW8JY001ORS1 Laptop (13th Gen Core i5/ 8GB/ 1TB SSD/ Win11 Home),199166,53,intel,core i5,10,8,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire 7 A715-76G UN.QMYSI.002 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),189206,72,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire 7 A715-76G NH.QMYSI.001 Gaming Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),175926,70,intel,core i5,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus TUF Gaming F15 90NR0GW1-M00F00 Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 4GB Graph),302086,64,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 16X 2023 K3605ZV-MBN741WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11),381766,72,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus Chromebook CX1400CKA-EK0257 Laptop (Celeron N4500/ 4GB/ 64GB eMMC/ Chrome OS),56406,37,intel,celeron,2,4,SSD,64,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Chromebook CX1400FKA-EC0158 Laptop (Celeron N4500/ 4GB/ 64GB eMMC/ Chrome OS),85493,41,intel,celeron,2,4,SSD,64,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Chromebook CX1400CKA-EK0335 Laptop (Celeron N4500/ 4GB/ 128GB eMMC/ Chrome OS),63046,37,intel,celeron,2,4,SSD,128,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook 16 2023 X1605ZAB-MB322WS Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),148201,57,intel,core i3,6,8,SSD,512,NONE,intel,integrated,16.0,1920,1200
+hp,HP 250 G9 7M659PA Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),147706,62,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1366,768
+asus,Asus Chromebook CX1500CKA-EJ0275 Laptop (Celeron N4500/ 8GB/ 64GB eMMC/ Chrome OS),76330,37,intel,celeron,2,8,SSD,64,NONE,intel,integrated,15.6,1920,1080
+gigabyte,Gigabyte G5 KF-E3IN313SH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 8GB Graph),298766,73,intel,core i5,12,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 5 16IAH8 83BG000PIN Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),206470,63,intel,core i5,8,16,SSD,512,NONE,intel,integrated,16.0,1920,1200
+asus,Asus Vivobook 16X K3605ZU-MBN742WS Laptop (12th Gen Core i7/ 16 GB RAM/ 512 GB SSD/ Win 11/ 6GB Graphics),326913,72,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+lenovo,Lenovo IdeaPad Flex 5 82Y0004YIN Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),195846,58,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 5 14IAH8 83BF000UIN Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),199830,59,intel,core i5,8,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+fujitsu,Fujitsu UH-X 4ZR1M37246 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),245646,65,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 5 82XE0072IN Laptop (AMD Ryzen 7 7730U/ 16GB/ 512GB SSD/ Win11),213110,69,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 3 82XQ008UIN Laptop (AMD Ryzen 5 7520U/ 8GB/ 512GB SSD/ Win11 Home),139406,58,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 82XQ0096IN Laptop (AMD Ryzen 5 7520U/ 16GB/ 512GB SSD/ Win11 Home),149366,60,amd,ryzen 5,4,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo V15 G3 IAP 82TT004VIH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ DOS),151026,56,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 16X K3605ZC-MBN542WS Laptop (12th Gen Core i5/ 16 GB RAM/ 512 GB SSD/ Win 11/ 4 GB Graphics),252286,65,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus Vivobook 16X K3605ZC-MBN541WS Laptop (12th Gen Core i5/ 16 GB RAM/ 512 GB SSD/ Win 11/ 4 GB Graphics),252286,66,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus Vivobook 16X K3605ZU-MBN541WS Laptop (12th Gen Core i5/ 16 GB RAM/ 512 GB SSD/ Win 11/ 6GB Graphics),313305,70,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+msi,MSI Thin GF63 11UC-1291IN Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),209126,71,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo Thinkpad E15 21E6S0W700 Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),157666,65,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Katana 15 B12UDXK-1004IN Gaming Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),315366,76,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer TMP214-41-G3 UN.VSQSI.007 Notebook (AMD Ryzen 5 5500U/ 16GB/ 512GB SSD/ Win11 Home),122806,63,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1366,768
+acer,Acer TMP214-41-G3 UN.VSQSI.006 Notebook (AMD Ryzen 5 5500U/ 8GB/ 512GB SSD/ Win11 Home),139406,60,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,14.0,1366,768
+asus,Asus VivoBook 15 X1504ZA-NJ326WS Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),135874,57,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook Pro 15 OLED M6500QC-LK541WS Laptop (Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),237712,62,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook Go 14 2023 E1404FA-NK327WS Laptop (Ryzen 3 7320U / 8GB/ 512GB SSD/ Win11 Home),112846,56,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+hp,HP Omen 16-xf0043AX Gaming Laptop (AMD Ryzen 9 7940HS/ 32GB/ 1TB SSD/ Win11/ 8GB Graph),607526,78,amd,ryzen 9,8,32,SSD,1024,NONE,nvidia,dedicated,16.1,2560,1440
+dell,Dell Vostro 3520 Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),124466,58,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 5430 IN54308DXWP001ORS1 Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11),285486,57,intel,core i7,10,16,SSD,1024,NONE,intel,integrated,14.0,1920,1080
+asus,Asus TUF Gaming F15 FX506HF-HN076W Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),192526,69,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus 15-fb1018AX Gaming Laptop (AMD Ryzen 5 7535HS/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),192792,63,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+fujitsu,Fujitsu UH-X 4ZR1L73352 2-in-1 Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11),365166,76,intel,core i7,12,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+hp,HP 15S-EQ1550AU Laptop (AMD Ryzen 3 3250U/ 8 GB RAM/ 512 GB SSD/ Win 11),106206,51,amd,ryzen 3,2,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Omen 16-wf0056TX 834U0PA Gaming Laptop (13th Gen Core i7/ 16 GB RAM/ 512 GB SSD/ Win 11/ 8 GB Graphics),507926,70,intel,core i7,16,16,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3i 82K101GTIN Laptop (11th Gen Core i5/ 8 GB RAM/ 512 GB SSD/ Win 11/ 4 GB Graphics),195382,64,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell Alienware x15 R2 D569947WIN9 Gaming Laptop (12th Gen Core i9/ 32 GB RAM/ 1 TB SSD/ Win 11/ 8 GB Graphics),741273,78,intel,core i9,14,32,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook Pro 15 M6500QF-HN541WS Creator Laptop (AMD Ryzen 5 5600H/ 16 GB RAM/ 512 GB SSD/ Win 11/ 4 GB Graphics),199166,63,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 5 14IAH8 83BF0045IN Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11),212446,60,intel,core i5,8,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+wings,Wings Nuvobook S2 Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),89606,51,intel,core i3,4,8,SSD,512,NONE,intel,integrated,15.6,1080,1920
+acer,Acer Aspire 3 Spin 14 NX.KENSI.002 Laptop (Intel Core i3 N305/ 8GB/ 512GB SSD/ Win11 Home),137746,45,intel,core i3,8,8,SSD,512,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 5 16IRL8 82XF003GIN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),233030,60,intel,core i5,12,16,SSD,512,NONE,intel,integrated,16.0,1920,1200
+lenovo,Lenovo IdeaPad 3 15ITL6 82H803GSIN Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),121810,60,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 5 82XD003NIN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),223070,62,intel,core i5,8,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+infinix,Infinix INBook X3 Slim Series XL422 Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win 11 Home),149366,57,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo V15 82KB00RJIH Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),156006,65,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 3530 2023 Laptop (13th Gen Core i3/ 8GB/ 1TB SSD/ Win11 Home),152288,56,intel,core i3,5,8,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 3520 Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),127318,58,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 5 16IRL8 82XF003JIN Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),279510,64,intel,core i7,14,16,SSD,512,NONE,intel,integrated,16.0,1920,1080
+lenovo,Lenovo IdeaPad Slim 5i 82XD0040IN Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),288806,62,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+dell,Dell Inspiron 13 5330 Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11),328646,63,intel,core i7,12,16,SSD,1024,NONE,intel,integrated,13.3,2560,1600
+dell,Dell Inspiron 3525 Laptop (AMD Ryzen R3 5300U/ 8GB/ 512GB SSD/ Win11),109526,58,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+dell,Dell Inspiron 5330 2023 Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11),290466,62,intel,core i5,12,16,SSD,1024,NONE,intel,integrated,13.3,2560,1600
+dell,Dell Inspiron 3535 2023 Laptop (AMD Ryzen R5-7520U/ 8GB/ 1TB SSD/ Win11),159326,54,amd,ryzen 5,4,8,SSD,1024,NONE,amd,integrated,15.6,1920,1080
+dell,Dell Inspiron 7430 2023 2 in 1 Laptop (13th Gen Core i5/ 8GB/ 1TB SSD/ Win11),257266,59,intel,core i5,10,8,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+dell,Dell Vostro 3430 Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11),137557,57,intel,core i3,5,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP Victus 15-FB0142AX Gaming Laptop (AMD Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),248834,71,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell Inspiron 7430 2 in 1 Touch Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11),289802,60,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+dell,Dell Vostro 3430 VN3430RHXFG001ORB1 Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Pro),200826,63,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo Yoga 6 82WV0058IN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),258926,60,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+asus,Asus TUF Gaming F15 FX577ZC-HN192W Gaming Laptop (12th Gen Core i7/ 16GB/1TB SSD/ Win11 / 4GB Graph),298766,76,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Thin GF63 12VE-664IN Gaming Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),322006,76,intel,core i7,10,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Thin GF63 12VF-663IN Gaming Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 8GB Graph),348566,77,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Katana 17 B12VGK-672IN Gaming Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),497966,79,intel,core i7,10,16,SSD,1024,NONE,nvidia,dedicated,17.3,1920,1080
+msi,MSI Pulse 17 B13VGK-666IN Gaming Laptop (13th Gen Core i7/ 8GB/ 1TB SSD/ Win11 Home/ 8GB Graph),497966,76,intel,core i7,14,8,SSD,1024,NONE,nvidia,dedicated,17.3,2560,1440
+msi,MSI Katana 17 B12VFK-668IN Gaming Laptop (12th Gen Core i7/ 8GB/ 1TB SSD/ Win11 Home/ 8GB Graph),381766,77,intel,core i7,10,8,SSD,1024,NONE,nvidia,dedicated,17.3,1920,1080
+msi,MSI Thin GF63 11UCX-1497IN Gaming Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),185886,69,intel,core i5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Thin GF63 11UCX-1496IN Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),195846,71,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Thin GF63 11SC-1493IN Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),185886,70,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Pulse 17 B13VGK-652IN Gaming Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),663966,83,intel,core i9,14,16,SSD,1024,NONE,nvidia,dedicated,17.3,1920,1080
+hp,HP Victus 15-fa1064TX Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),396408,72,intel,core i7,14,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Victus  15-fa1060TX  Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),331996,71,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo Ideapad Slim 3 15ITL05 81X800N1IN Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),124500,59,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Omen 16-u0023TX Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win11 Home/ 8GB Graph),794472,86,intel,core i9,24,32,SSD,1024,NONE,nvidia,dedicated,16.1,2560,1600
+hp,HP Omen 16-wf0052TX Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),440228,75,intel,core i5,14,16,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+hp,HP Victus 15-fb0153AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),169316,67,amd,ryzen 5,6,8,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+asus,Asus VivoBook 14 2023 X1404ZA-NK321WS Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),124792,59,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook 15 X1504ZA-NJ325WS Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),122806,57,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 5 82XE004RIN Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11),195846,64,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1920,1200
+hp,HP Envy x360 13-bf0141tu Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11),348719,67,intel,core i7,10,16,SSD,512,NONE,intel,integrated,13.3,2880,1800
+lenovo,Lenovo IdeaPad Slim 3 82XQ008VIN Laptop (AMD Ryzen 5 7520U/ 16GB/ 512GB SSD/ Win11),146046,58,amd,ryzen 5,4,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Omen 16-wd0770TX Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),337976,72,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+asus,Asus Vivobook 16X 2023 K3605ZC-MBN741WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),315366,72,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus Vivobook Pro 15 M6500QFB-LK541WS Laptop (AMD Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),232366,66,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Predator 16 NH.QLUSI.005 Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),531166,79,intel,core i9,24,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+asus,Asus Vivobook Pro 15 M6500QFB-LK742WS Laptop (Ryzen 7 5800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),242326,72,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Prestige 16 A13UCX-250IN Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 4GB Graphic),398366,73,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+hp,HP Victus 15-fb0134AX Gaming Laptop (AMD Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),187546,70,amd,ryzen 5,6,16,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+dell,Dell Inspiron 3520 IN3520KTMFJ001ORS1 Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),123772,58,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 5 82XD003PIN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),230720,60,intel,core i5,8,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+asus,Asus VivoBook 15 X1500EA-EJ326WS Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),108862,54,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo LOQ 15IRH8 82XV00F7IN 2023 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 8GB Graph),325326,72,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Pavilion x360 14-ek1074TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),259292,67,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo LOQ 15IRH8 82XV00F6IN 2023 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),303746,71,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 15s-fr2515TU Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),122142,60,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo LOQ 15APH8 82XT004HIN 2023 Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),293909,73,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 15 X1502ZA-EJ545WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),199166,64,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Vector GP68HX 13VH-072IN Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win11/ 12GB Graph),995966,89,intel,core i9,24,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo LOQ 15APH8 82XT004JIN 2023 Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),331966,73,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Omen 16-wf0111TX Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),488006,77,intel,core i7,16,16,SSD,1024,NONE,nvidia,dedicated,16.1,1920,1080
+lenovo,Lenovo LOQ 15APH8 82XT009CIN 2023 Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11/ 8GB Graph),365166,75,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Omen 16-xf0059AX Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11/ 8GB Graph),408393,73,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1080
+asus,Asus Vivobook Go 15 E510MA-EJ001W Laptop (Celeron N4020/ 4GB/ 256GB SSD/ Win11 Home),86286,45,intel,celeron,2,4,SSD,256,NONE,intel,integrated,15.6,1920,1080
+hp,HP Omen 16-wf0055TX Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 8GB Graph),464766,77,intel,core i7,16,16,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+acer,Acer Nitro 5 AN515-58 NH.QFHSI.008 Gaming Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),224096,65,intel,core i5,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire Lite AL15-51 2023 Laptop (AMD Ryzen 5 5500U/ 8GB/ 512GB SSD/ Win11),119486,58,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo Yoga Book 9i 2023 82YQ001DIN Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11),747630,73,intel,core i7,10,16,SSD,1024,NONE,intel,integrated,13.3,2880,1800
+hp,HP 255 G8 Laptop (AMD Athlon 3050U/ 4GB/ 256GB SSD/ Win11),76326,44,amd,other,2,4,SSD,256,NONE,amd,integrated,15.6,1920,1080
+dell,Dell Inspiron 5330 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),280506,60,intel,core i5,12,16,SSD,512,NONE,intel,integrated,13.3,2560,1600
+dell,Dell XPS 15 9530 Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),854866,85,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,15.6,3456,2160
+dell,Dell Inspiron 5330 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),318686,63,intel,core i7,12,16,SSD,512,NONE,intel,integrated,13.3,2560,1600
+asus,Asus Vivobook 15 X1504ZA-NJ321WS Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),130774,57,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 5518 D560667WIN9S Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 2GB Graph),202188,65,intel,core i5,4,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Prestige 14 Evo B12M-472IN Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),272206,63,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo IdeaPad Slim 5i 82XF003DIN Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),298431,63,intel,core i7,14,16,SSD,512,NONE,intel,integrated,16.0,1920,1200
+dell,Dell Alienware X16 Gaming Laptop (13th Gen Core i9/ 32GB/ 2TB SSD/ Win 11/ 16GB Graph),1508906,83,intel,core i9,14,32,SSD,2048,NONE,nvidia,dedicated,16.0,3200,1800
+dell,Dell Inspiron 5425 Laptop (AMD Ryzen 75825U/ 16GB/ 512GB SSD/ Win11) 84 votes,225394,65,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,14.0,1920,1080
+dell,Dell Alienware X16 R1 2023 Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win 11/ 12GB Graph),1075646,85,intel,core i9,24,32,SSD,1024,NONE,nvidia,dedicated,16.0,3200,1800
+dell,Dell Alienware m16 2023 Gaming Laptop (AMD Ryzen 7 7745HX/ 16GB/ 1TB SSD/ Win 11/ 8GB Graph),627446,80,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+msi,MSI Modern 15 B12M-613IN Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),122806,58,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Creator Pro M16 B13VI-1273IN Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win 11/ 6GB Graph),529297,77,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+msi,MSI Prestige 14H B12UCX-412IN Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/Win11 Home/ 4GB Graphic),298766,71,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,14.0,1920,1200
+dell,Dell Alienware M18 R1 2023 Gaming Laptop (13th Gen Core i9/ 64GB/ 1TB SSD/ Win 11/ 16GB Graph),1497286,83,intel,core i9,24,4,SSD,1024,NONE,nvidia,dedicated,18.0,3200,1800
+hp,HP 15s-fy5005TU Laptop (12th Gen Core i3/ 8GB/ 1TB SSD/ Win11 Home),145200,56,intel,core i3,6,8,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Yoga 6 83B2005TIN Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),248966,69,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,13.3,1920,1200
+asus,Asus Vivobook 16X 2023 K3605ZF-MBN543WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),215766,72,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus Vivobook 16X 2023 K3605ZF-MBN741WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),295480,75,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+lenovo,Lenovo IdeaPad Flex 5 82R900D9IN Laptop (AMD Ryzen 7 5700U/ 16GB/ 512GB SSD/ Win11 Home),215766,72,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,14.0,1920,1200
+hp,HP 15s-fy5004TU Laptop (12th Gen Core i3/ 16GB/ 512GB SSD/ Win11 Home),144088,57,intel,core i3,6,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 82XQ008GIN Laptop (AMD Ryzen 5 7520U/ 8GB/ 512GB SSD/ Win11),134758,57,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook Pro 15 M6500QC-LK542WS Laptop (AMD R5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),232400,70,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus ROG Zephyrus G16 2023 GU603ZU-N3023WS Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),471403,82,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+lg,LG Gram 14 2023 14Z90R-G.CH54A2 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),328676,67,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,1200,1920
+dell,Dell Alienware m16 Gaming Laptop (AMD Ryzen 9 7845HX/ 32GB/ 2TB SSD/ Win 11/ 12GB Graph),995966,89,amd,ryzen 9,12,32,SSD,2048,NONE,nvidia,dedicated,16.0,1920,1200
+acer,Acer Nitro 16 AN16-41 Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 512GB SSD/ Win11 Home/ 8GB Graph),431566,80,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+lenovo,Lenovo IdeaPad Flex 5 82XX007KIN Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),219086,69,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1920,1200
+acer,Acer Aspire 5 2023 A515-58M Gaming Laptop (13th Gen Core i7/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graphic),250656,59,intel,core i7,10,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Chromebook x360 14a-ca0505TU Laptop (Intel Celeron N4120/ 4GB/ 64GB eMMC/ Chrome OS),86286,44,intel,celeron,4,4,HDD,64,NONE,intel,integrated,14.0,1366,768
+asus,Asus Vivobook Pro 15 M6500QC-LK742WS Laptop (Ryzen 7 5800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),254312,72,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP ZBook Firefly 16 G9 2023 Workstation PC Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11/ 4GB Graphics),420976,69,intel,core i5,10,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+fujitsu,Fujitsu UH-X 4ZR1L12856 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),331966,73,intel,core i7,12,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+hp,HP 2023 ZBook Firefly 16 G9 WUXGA Workstation Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 4GB Graphics),442453,69,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+acer,Acer Aspire Lite AL15-51 2023 Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11),139406,64,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15s-fq3073TU Laptop Intel Pentium Silver N6000/ 8GB/ 512GB SSD/ Win11 Home),109526,46,intel,pentium,4,8,SSD,512,NONE,intel,integrated,15.6,1366,768
+hp,HP ZBook Firefly 16 G9 2023 Workstation Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graphics),399890,67,intel,core i5,10,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus ROG Zephyrus G14 GA402NJ-L8094WS Gaming Laptop (AMD Ryzen 7 7735HS/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),431566,71,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,14.0,2560,1600
+lg,LG UltraPC 16 16U70R-G.AH56A2 Laptop (AMD Ryzen5-7530U/ 16GB/ 512GB SSD/ Win11),259952,72,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,16.0,1920,1200
+hp,HP ZBook Studio G9 16 WUXGA Workstation Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),763799,80,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+lenovo,Lenovo IdeaPad 1 82V6005CIN Laptop (Celeron N4020/ 4GB/ 256GB SSD/ Win11 Home),80310,38,intel,celeron,2,4,SSD,256,NONE,intel,integrated,11.6,1366,768
+lg,LG gram360 16 Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11),506296,78,intel,core i7,12,16,SSD,1024,NONE,intel,integrated,16.0,1600,2560
+hp,HP Chromebook 15a-nb0002TU Laptop ( Intel Core i3-N305/ 8GB/ 256GB SSD/ Chrome OS),169286,38,intel,core i3,8,8,SSD,256,NONE,intel,integrated,15.6,1366,768
+lg,LG Gram 14 2023 14Z90R-G.CH75A2 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),391424,69,intel,core i7,12,16,SSD,512,NONE,intel,integrated,14.0,1200,1920
+acer,Acer Nitro 5 AN515-58 UN.QFHSI.026 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),239006,70,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 15 2023 X1504VA-NJ544WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),212446,65,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+walker,Walker NU14A1 Laptop (Celeron N4020/ 4GB/ 128GB SSD / Win11 Home),53086,37,intel,celeron,2,4,SSD,128,NONE,intel,integrated,14.1,1920,1080
+hp,HP 255 G8 6E3Z0PA Laptop (Ryzen 3 3250U/ 8GB/512GB SSD/ Dos),79676,52,amd,ryzen 3,2,8,SSD,512,NONE,amd,integrated,15.6,1366,768
+dell,Dell Inspiron 14 5430 2023 Laptop (13th Gen Core i5/ 8GB/ 1TB SSD/ Win11),217460,60,intel,core i5,10,8,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+dell,Dell Inspiron 2023 14 5430 Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11),245646,63,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+hp,HP Omen 16-wd0990TX Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),325356,73,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.1,2560,1440
+lenovo,Lenovo S14 Gen 3 82TW001CIH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),175926,62,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15ACH6 82K2022YIN Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),209126,65,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Katana GF66 12UCOK 2023 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),245646,65,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo ThinkBook 15 21JF002CIN Laptop (AMD Ryzen 3 7330U/ 8 GB/ 512 GB SSD/ DOS),109224,59,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad 1 14IGL7 82V6005EIN Laptop (Celeron Dual Core/ 8GB/ 256GB SSD/ Win11 Home),82966,50,intel,celeron,2,8,SSD,256,NONE,intel,integrated,14.0,1366,768
+msi,MSI Thin GF63 11SC-1477IN Gaming Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),159326,67,intel,core i5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 15 OLED 2023 X1505VAU-LK543WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),245646,60,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 16X 2023 K3605ZU-MB541WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),331966,75,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+lenovo,Lenovo IdeaPad Gaming 3 82K101LHIN Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),175926,70,intel,core i5,4,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 15 2023 X1504VA-NJ543WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),205806,64,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo ThinkPad E14 21JRS00T00 Laptop (AMD Ryzen 5 7530U/ 8GB/ 512GB SSD/ Win11 Home),230225,62,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Slim 3 2023 82X70033IN Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11),149366,58,intel,core i3,5,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Envy x360 15-fe0028TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),320678,66,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Envy x360 15-fe0027TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),292126,66,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Envy x360 15-fh0016AU Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),287810,66,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Envy x360 15-fh0019AU Laptop (AMD Ryzen 7 7730U/ 16GB/ 512GB SSD/ Win11 Home),291130,70,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Envy x360 15-fh0015AU Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),261914,66,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Envy x360 15-ew0041TU Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),278846,72,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 14-em0025AU Laptop (AMD Ryzen  3 7320U/ 8GB/ 512GB SSD/ Win11 Home),129446,57,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+hp,HP 14-em0027AU Laptop (AMD Ryzen 5 7520U/ 16GB/ 512GB SSD/ Win11 Home),169286,60,amd,ryzen 5,4,16,SSD,512,NONE,amd,integrated,14.0,1920,1080
+asus,Asus Vivobook 15 X1502ZA-EJ523WS Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),185886,60,intel,core i5,12,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Vostro 15 3510 Laptop (11th Gen Core i3/ 8GB/ 1TB 256GB SSD/ Win11 Home),130442,60,intel,core i3,2,8,HDD,1024,SSD,intel,integrated,15.6,1920,1080
+hp,HP Pavilion Plus 14-eh1047TU Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win 11),357773,71,intel,core i7,14,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+dell,Dell Inspiron 7430 2 in 1 Laptop (13th Gen Core i3/ 8GB/ 1TB SSD/ Win11),199166,56,intel,core i3,6,8,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+lenovo,Lenovo IdeaPad Gaming 3 82K2025LIN Laptop (AMD Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),242326,69,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo ThinkPad E14 21JRS00U00 Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),188244,64,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1920,1080
+lenovo,Lenovo Thinkpad E15 21E6S05B00 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),219086,67,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Thinkbook 15 21DJ00EXIH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),179246,66,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Pavilion Plus 14-eh1022TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win 11),259023,69,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,2240,1400
+acer,Acer Aspire Lite AL15-51 UN.431SI.252 Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),102222,59,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15ACH6 82K2025JIN Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),190534,67,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP Zbook Power G4-A 2023 ZHAN 99 Laptop (AMD Ryzen 5 6600H/ 16GB/ 1TB 512GB SSD/ Win11/ 4GB Graph),384143,71,amd,ryzen 5,6,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+dell,Dell Inspiron 3535 Laptop (AMD Ryzen R5-7520U/ 8GB/ 512GB SSD/ Win11),138802,53,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Envy 15-fe0030TU Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),365166,69,intel,core i7,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 14-hr0001AU Laptop (AMD Ryzen 5 7520U/ 8GB/ 512GB SSD/ Win11 Home),149366,58,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+hp,HP 14-gr0000TU Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),159326,53,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP 14-hr0000AU Laptop (AMD Ryzen 5 7520U/ 16GB/ 512GB SSD/ Win11 Home),175926,60,amd,ryzen 5,4,16,SSD,512,NONE,amd,integrated,14.0,1920,1080
+hp,HP Envy 15-fe0032TU Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11),385086,70,intel,core i7,10,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 16X 2023 K3605ZF-MBN544WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),277548,72,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus ROG Zephyrus G14 2023 GA402XU-N2045WS Gaming Laptop (AMD Ryzen 9 7940HS/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),464766,83,amd,ryzen 9,8,16,SSD,1024,NONE,nvidia,dedicated,14.0,2560,1600
+dell,Dell Inspiron 5430 2023 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),292126,56,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus TUF Gaming F15 FX506HF-HN026W Gaming Laptop (11th Gen Core i5/ 8GB/ 1TB SSD/ Win11/ 4GB Graph),195846,71,intel,core i5,6,8,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo ThinkBook 15 G5 21JFA00QIN Laptop (AMD Ryzen 7 7730U/ 8 GB/ 512 GB SSD/ DOS),165966,64,amd,ryzen 7,8,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 82K2022VIN Laptop (AMD Ryzen 5-5600H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),200826,67,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo IdeaPad 3 15ITL05 81X800N2IN Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),117826,59,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15IAH7 82S9014KIN Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),239006,70,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell Inspiron 7420 2in1 Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11),300426,67,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+hp,HP 14-em0026AU Laptop (AMD Ryzen 5 7520U/ 8GB/ 512GB SSD/ Win11 Home),149366,58,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+msi,MSI Cyborg 15 A12VF-049IN Gaming Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 8GB Graph),371806,78,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo ThinkPad E14 Gen 4 21E3S06Q00 Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ DOS),151060,57,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+dell,Dell Vostro 5620 Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),136086,58,intel,core i3,6,8,SSD,512,NONE,intel,integrated,16.0,1920,1080
+dell,Dell Vostro 3525 D560926WIN9B Laptop (AMD Ryzen 5-5500U/ 8GB/ 512GB SSD/ Win11),145050,52,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo ThinkPad E14 Gen 4 21E3S06D00 Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),165996,62,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo Thinkpad E14 21E3S06300 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ DOS),219780,62,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+acer,Acer Aspire 3 A315-510P Laptop (Intel Core i3 N305/ 8GB/ 256GB SSD/ Win11 Home),99533,50,intel,core i3,8,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 16 5635 Laptop (AMD Ryzen 5 7530U/ 8GB/ 512GB SSD/ Win11),185886,60,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,16.0,1920,1200
+acer,Acer Aspire 3 NX.KDESI.008 Laptop (AMD Ryzen 3 7320U/ 8GB/ 512GB SSD/ Win11 Home),97906,57,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Slim 3 82XQ008EIN Laptop (AMD Ryzen 3 7320U/ 8GB/ 512GB SSD/ Win11 Home),111186,57,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Pavilion 14-dv1043TU Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),178280,62,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+acer,Acer Aspire 5 A515-58M 2023 Gaming Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),142726,50,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Bravo 15 C7UCXK-094IN Gaming Laptop (AMD Ryzen 5 7535HS/ 16 GB RAM/ 512 GB SSD/ Win 11/ 4 GB Graphics),192526,67,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Bravo 15 C7UCXK-095IN Gaming Laptop (AMD Ryzen 5 7535HS/ 8 GB RAM/ 512 GB SSD/ Win 11/ 4 GB Graphics),182566,65,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell Latitude 3420 GD723YX17 Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Ubuntu),159326,60,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,1366,768
+msi,MSI Bravo 15 C7VFK-087IN Gaming Laptop (AMD Ryzen 7 7735HS/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),348566,78,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Bravo 15 C7UDXK-093IN Gaming Laptop (AMD Ryzen 5 7535HS/ 16 GB RAM/ 512 GB SSD/ Win 11/ 6 GB Graphics),248966,69,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Bravo 15 C7VEK-088IN Gaming Laptop (AMD Ryzen 7 7735HS/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),315366,77,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer One 14 Z8-415 2023 Laptop (11th Gen Core i5 / 16GB/ 512GB SSD/ Win11 Home),136086,60,intel,core i5,4,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+msi,MSI Thin GF63 11UCX-1471IN Gaming Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),169286,66,intel,core i5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 15 X1504ZA-NJ521WS Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),159293,59,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Bravo 17 C7VEK-035IN Gaming Laptop (AMD Ryzen 7 7735HS/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),315366,77,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,17.3,1920,1080
+msi,MSI Bravo 15 C7VEK-089IN Gaming Laptop (AMD Ryzen 5 7535HS/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),282166,75,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 255 G9 7M654PA Laptop (12th Gen Core i3/ 8GB/ 512 GB SSD/ Win11),129446,63,intel,core i3,6,8,SSD,512,NONE,amd,integrated,15.6,1366,768
+dell,Dell Inspiron 5620 ICC-C783531WIN8 Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 2GB Graph),264570,70,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1080
+msi,MSI Modern 14 C12M-670IN Laptop (12th Gen Core i7/ 8GB/ 512GB SSD/ Win11 Home) Price,202486,63,intel,core i7,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+msi,MSI Thin GF63 11UC-1475IN Gaming Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),172606,70,intel,core i5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell XPS 9530 2023 Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win11/ 6GB Graph),927906,88,intel,core i7,14,32,SSD,1024,NONE,nvidia,dedicated,15.6,3456,2160
+dell,Dell XPS 13 Plus 9320 2023 Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win11),670606,82,intel,core i7,12,32,SSD,1024,NONE,intel,integrated,13.4,3840,2400
+lenovo,Lenovo Thinkpad E14 G4 21E3006UIG Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ DOS),222440,63,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo Thinkpad E14 G4 21E3S02M00 Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Pro),415000,75,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lg,LG UltraPC 16 16U70R-G.AH76A2 Laptop (AMD Ryzen7-7730U/ 16GB/ 512GB SSD/ Win11),298132,75,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,16.0,1920,1200
+lg,LG Gram Style 14 14Z90RS-G.CH74A2 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),501316,72,intel,core i7,12,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+hp,HP Zbook Power G4-A Laptop (AMD Ryzen 7 6800H/ 16GB/ 1TB SSD/ Win11/ 4GB Graph),435969,72,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo Thinkbook 14 Gen 4 Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Pro),250656,62,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,14.0,1920,1080
+axl,AXL Vayu Book LAP02 Laptop (Celeron N4020/ 4GB/ 256GB SSD / Win11 Home),59726,38,intel,celeron,2,4,SSD,256,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Modern 14 C7M-218IN Laptop (Ryzen 7 7730U/ 16GB/ 512GB SSD/ Win11),175926,65,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,14.0,1920,1080
+axl,AXL Vayu Book LAP01 Laptop (Celeron N4020/ 4GB/ 128GB SSD / Win11 Home),49766,37,intel,celeron,2,4,SSD,128,NONE,intel,integrated,14.1,1920,1080
+dell,Dell Inspiron 3525 D560927WIN9S Laptop (AMD Ryzen 5-5500U/ 8GB/ 512GB SSD/ Win11),135754,54,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo ThinkBook 15 G3 ACL 21A4A08UIH Laptop (AMD Ryzen 5 5500U/ 8 GB/ 512 GB SSD/ DOS),136086,57,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook 14X 90NB11H2-M004D0 Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/4 GB Graphics),232366,69,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,14.0,1920,1200
+lenovo,Lenovo S14 82TW0019IH Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),156006,57,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP Pavilion 15-EH3101AU Laptop (AMD Ryzen 7- 7730U/ 16GB/ 512GB SSD/ Win11 Home),216132,66,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo ThinkBook 15 G3 ACL 21A4A08VIH Laptop (AMD Ryzen 5 5500U/ 8 GB/ 512 GB SSD/ Win11 Home),126727,59,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook Pro 15 M6500QF-HN741WS  Laptop (Ryzen 7 5800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),215766,64,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell Alienware x14 R2 Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win 11/ 6GB Graph),682226,72,intel,core i7,10,16,SSD,1024,NONE,nvidia,dedicated,14.0,2560,1600
+asus,Asus Vivobook S15 OLED 2023 S5504VA-MA554WS Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11),316396,66,intel,core i5,12,16,SSD,1024,NONE,intel,integrated,15.6,2880,1620
+asus,Asus VivoBook 15 X515EA-EJ328WS Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11),116475,53,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire 7 A715-76G UN.QMESI.004 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),182566,69,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo V15 G4 82YU00W6IN Laptop (AMD Ryzen 3 7320U/ 8GB/ 512GB SSD/ DOS),92926,54,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo Thinkpad E14 20TA00J2IG Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Pro),245348,64,intel,core i5,4,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo V15 G3 IAP Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/Win11),116166,53,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo V14 G3 IAP Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),116166,54,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo V15 G3 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/Win11),155708,56,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo V15 G3 82C7007SGE Laptop (AMD Ryzen 3 7320U/ 8GB/ 512GB SSD/ Win11 Home),99566,59,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo V14 G3 IAP Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),154346,57,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+dell,Dell Inspiron 5630 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),315068,71,intel,core i7,12,16,SSD,512,NONE,intel,integrated,16.0,2560,1600
+lenovo,Lenovo IdeaPad Slim 3 82H803B6IN Laptop (11th Gen Core i7/ 16GB/ 512GB SSD/ Win11),172975,66,intel,core i7,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 16-d0302TX Gaming Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),194216,71,intel,core i5,6,8,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+lenovo,Lenovo IdeaPad 5 15ITL05 82FG01UUIN Laptop (11th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 2GB Graphic),248631,64,intel,core i7,4,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell Inspiron 3530 Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),205806,56,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15s-ey1509AU Laptop (AMD Athlon Silver 3050U/ 8GB/ 512GB SSD/ Win11),95450,49,amd,other,2,8,SSD,512,NONE,amd,integrated,15.6,1366,768
+dell,Dell G16-7630 2023 Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),524526,78,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+dell,Dell 2023 G16-7630 Gaming Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win11/ 8GB Graph),552746,82,intel,core i7,14,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+dell,Dell Inspiron 7430 IC7430FD64T001ORS1 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),330306,59,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+dell,Dell Inspiron 7430 IC7430VVR8C001ORS1 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),265666,58,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+hp,HP 14s-dr3003TU 832T7PA Laptop (Pentium Silver N6000/ 8GB/ 512GB SSD/ Win11 Home),93643,50,intel,pentium,4,8,SSD,512,NONE,intel,integrated,14.0,1366,768
+dell,Dell Inspiron 15 3530 Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),142726,57,intel,core i3,5,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+infinix,Infinix INBook X2 Slim Series XL23 Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win 11 Home),129446,58,intel,core i5,4,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+dell,Dell Inspiron 5430 IN54304D6P9M01ORS1 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),295413,56,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+dell,Dell Inspiron 5430 IN54308TR2G001ORS1 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),239006,52,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+dell,Dell Inspiron 7430 IC7430PXXWC001ORS1 Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11),245646,57,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1200
+asus,Asus Vivobook Go 15 E510MA-EJ011WS Laptop (Intel Celeron N4020/ 8GB/ 256GB SSD/ Win11 Home),92926,45,intel,celeron,2,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 15-fb0137AX Gaming Laptop (Ryzen 7 5800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),245646,67,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 15 X515EA-EJ542WS Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11),164306,58,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 5430 IN5430YXVW9M01ORS1 Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11),205806,56,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP ProBook 445 G8 7K2J8PA Business Laptop (AMD Ryzen 7 5800U/ 8GB/ 512GB SSD/ FreeDOS),152384,63,amd,ryzen 7,8,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+hp,HP Pavilion 15s-fq5190TU Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),227383,65,intel,core i7,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 15-fb0133AX Gaming Laptop (AMD Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),210202,67,amd,ryzen 5,6,16,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+asus,Asus Vivobook 16 2023 M1605YA-MB521WS Laptop (Ryzen 5 7530U / 8GB/ 512GB SSD/ Win11 Home),162646,63,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,16.0,1920,1200
+lenovo,Lenovo V14 G3 82TSA01KIH Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Dos),104546,50,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP 14-ep0068TU Laptop (Core i3-N305/ 8GB/ 512GB SSD/ Win11 Home),129446,47,intel,core i3,8,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP Victus 15-fb0136AX Gaming Laptop (AMD Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),215766,66,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer One 14 Z2-493 Business Laptop (AMD Ryzen 5 / 8GB/ 512GB SSD/ Win11),109194,56,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,14.0,1366,768
+msi,MSI Katana 15 B12UDXK-1017IN Gaming Laptop (12th Gen Core i7/ 8GB/ 512GB SSD/ Win11 Home/ 6GB Graph),305406,75,intel,core i7,10,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Katana 15 B12UDXK-1019IN Gaming Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),292126,75,intel,core i5,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer One 14 Business Z2-493 Laptop (Ryzen 3 3250U/ 8GB/ 512GB SSD/ Win11),96276,53,amd,ryzen 3,2,8,SSD,512,NONE,amd,integrated,14.0,1366,768
+hp,HP 15s-fq3071TU Laptop (Intel Celeron N4500/ 8GB/ 512GB SSD/ Win11 Home),97906,50,intel,celeron,2,8,SSD,512,NONE,intel,integrated,15.0,1366,768
+hp,HP Victus 15-fb0135AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),205806,64,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Zenbook 14X OLED 2023 UM5401QA-KM751WS Laptop (Ryzen 7 5800HS / 16GB/ 1TB SSD/ Win11 Home),255606,64,amd,ryzen 7,8,16,SSD,1024,NONE,amd,integrated,14.0,2880,1800
+dell,Dell G15-5530 Gaming 2023 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ RTX 4060 8GB Graph),495642,76,intel,core i7,14,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire 5 A515-58P NX.KHJSI.001 Gaming Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),132766,51,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Pavilion 15-eg3027TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),250769,66,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,DELL Inspiron 3530 Laptop (13th Gen Core i3/ 8GB/ 256GB SSD/ Win11 Home),142760,52,intel,core i3,8,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+dell,Dell G16-7630 Gaming Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),624126,79,intel,core i9,24,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+dell,Dell G15-5530 Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ RTX 4050 6GB Graph),365166,73,intel,core i7,14,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell G15-5530 2023 Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ RTX 4050 6GB Graph),431566,75,intel,core i7,14,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+dell,Dell G15-5530 GN553064GRM002ORB1 Gaming Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 6GB Graph),270254,69,intel,core i5,10,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire Vero AV14-52P NX.KJTSI.002 Laptop (13th Gen Core i3/ 16GB/ 512GB SSD/ Win11 Home),165966,50,intel,core i3,6,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+acer,Acer Aspire Vero AV14-52P NX.KJSSI.002 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),193453,59,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+acer,Acer Aspire 5 A515-58M NX.KHGSI.002 Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),187546,52,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire 5 A515-58M NX.KHFSI.001 Gaming Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),185588,50,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Pavilion x360 14-ek1020TU Laptop (13th Gen Core i7/ 16GB/ 512 GB SSD/ Win11),305672,71,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook 15X 2023 K3504VAB-NJ321WS Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),132766,54,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Stealth 17 Studio A13VG-029IN Gaming Laptop (13th Gen Core i7/ 16GB/ 2TB SSD/ Win11 Home/ 8GB Graph),929566,85,intel,core i7,14,16,SSD,2048,NONE,nvidia,dedicated,17.3,2560,1440
+asus,Asus TUF A15 FA577RM-HQ032WS Laptop (Ryzen 7 6800H/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),347766,71,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,2560,1440
+asus,Asus TUF Gaming F15 2023 FX507VU-LP083WS Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),421274,73,intel,core i7,14,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus ROG Zephyrus G14 2023 GA402XV-N2034WS Gaming Laptop (AMD Ryzen 9 7940HS/ 32GB/ 1TB SSD/ Win11/ 8GB Graph),663966,89,amd,ryzen 9,8,32,SSD,1024,NONE,nvidia,dedicated,14.0,2560,1600
+asus,Asus TUF Gaming A15 2023 FA577XU-LP041WS Gaming Laptop (AMD Ryzen 9 7940HS/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),438206,84,amd,ryzen 9,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus TUF Gaming F15 2023 FX507VU-LP091WS Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),444514,75,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus TUF Gaming A15 2023 FA577XV-HQ036WS Gaming Laptop (AMD Ryzen 9 7940HS/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),514566,83,amd,ryzen 9,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,2560,1440
+lenovo,Lenovo IdeaPad Slim 5 82FG01B3IN Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),175628,67,intel,core i5,4,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus ROG Strix G16 2023 G614JU-N3221WS Gaming Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),479427,73,intel,core i5,10,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+asus,Asus TUF Gaming A15 FA577NU-LP082W Gaming Laptop (AMD Ryzen 7 7735HS/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),315366,77,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus ROG Zephyrus G14 2023 GA402XZ-N2020WS Gaming Laptop (AMD Ryzen 9 7940HS/ 32GB/ 1TB SSD/ Win11/ 12GB Graph),866486,89,amd,ryzen 9,8,32,SSD,1024,NONE,nvidia,dedicated,14.0,2560,1600
+asus,Asus ROG Zephyrus G14 2023 GA402NU-N2023WS Gaming Laptop (AMD Ryzen 7 7735HS/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),497966,76,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,14.0,2560,1600
+asus,Asus TUF Gaming A17 FA777XU-HX026WS Gaming Laptop (AMD Ryzen 9 7940HS / 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),448166,80,amd,ryzen 9,8,16,SSD,1024,NONE,nvidia,dedicated,17.3,1920,1080
+asus,Asus Vivobook 15X OLED M3504YA-LK541WS Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),200458,67,amd,ryzen 5,6,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad 3 15IAU7 82RK00LWIN Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),175276,58,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus ROG Flow Z13 2023 GZ301VV-MU014WS Gaming Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),696834,73,intel,core i9,14,16,SSD,1024,NONE,nvidia,dedicated,13.4,2560,1600
+asus,Asus TUF Gaming F15 2023 FX507VV-LP071WS Gaming Laptop (13th Gen Core i9/ 16GB/1TB SSD/ Win11 Home/ 8GB Graph),514566,82,intel,core i9,14,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook S15 2022 K3502ZA-KJ542WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11),232366,66,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 16X 2023 K3605ZC-MB541WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),282034,72,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1200
+hp,HP Victus 15-fa0092TX Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),232366,65,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Predator Helios 16 PH16-71 Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 8GB Graph),476088,70,intel,core i7,16,16,SSD,512,NONE,nvidia,dedicated,16.0,2560,1600
+asus,Asus Vivobook Pro 15 OLED K6502VU-MA541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),376491,75,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,15.6,2880,1620
+dell,Dell Alienware x14 R2 2023 Gaming Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win 11/ 8GB Graph),748626,78,intel,core i7,10,32,SSD,1024,NONE,nvidia,dedicated,14.0,2560,1600
+dell,Dell Alienware m16 Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win 11/ 8GB Graph),733686,83,intel,core i7,16,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+hp,HP 15-hr0000TU Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),223768,57,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15-hr0001TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),215766,59,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Thin GF63 12UCX-269IN Gaming Laptop (12th Gen Core i5/ 16GB/ 1TB 256GB SSD/ Win11 Home/ 4GB Graph),255606,69,intel,core i5,8,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+msi,MSI Katana 15 B12UDXK-1006IN Gaming Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 6GB Graph),242326,71,intel,core i5,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Swift Go 14 SFG14-41 NX.KG3SI.003 Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),195846,62,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,1920,1080
+hp,HP 15s-eq1580AU Laptop (AMD Ryzen 3 3250U/ 8GB/ 512GB SSD/ Win11 Home),109526,58,amd,ryzen 3,2,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP 15-fd0021TU Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),204146,57,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook S15 OLED 2023 S5504VA-MA741WS Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11),351886,66,intel,core i7,14,16,SSD,512,NONE,intel,integrated,15.6,2880,1620
+msi,MSI Thin GF63 12VE-267IN Gaming Laptop (12th Gen Core i5/ 16GB/ 1TB 256GB SSD/ Win11/6GB Graphics),288806,73,intel,core i5,8,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 16X 2023 K3605VC-MB951WS Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11 Home/ 4GB Graph),369977,76,intel,core i9,14,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+msi,MSI Stealth 16 Studio A13VG-030IN Gaming Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win11 Home/ 8GB Graph),829966,86,intel,core i7,14,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+asus,Asus Vivobook 14X 2023 K3405VF-LY541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/4 GB Graphics),254375,66,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,14.0,1920,1200
+acer,Acer Predator Helios Neo 16 PHN16-71 2023 Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),474756,78,intel,core i7,16,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+asus,Asus Vivobook 14X OLED 2023 K3405VCB-KM542WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/4 GB Graphics),312076,70,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,14.0,2880,1800
+asus,Asus Vivobook Pro 15 OLED K6502VU-MA951WS Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),536223,84,intel,core i9,14,16,SSD,1024,NONE,nvidia,dedicated,15.6,2880,1620
+asus,Asus Zenbook Pro 14 Duo OLED 2023 UX8402VU-MZ551WS Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home/ 6GB Graph),663966,71,intel,core i5,12,16,SSD,1024,NONE,nvidia,dedicated,14.5,2880,1800
+hp,HP ProBook 440 G9 6J8T1PA Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11),391760,75,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP 15-fd0024TU Laptop (13th Gen Core i7/ 16GB/ 512 GB SSD/ Win11 Home),264238,66,intel,core i7,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI GF63 Thin 11SC-1298IN Gaming Laptop (11th Gen Core i7/ 16GB/ 1TB 256GB SSD/ Win11/ 4GB Graph),212446,71,intel,core i7,8,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+asus,Asus VivoBook 15 X515EA-EJ342WS Laptop (11th Gen Core i3/ 16GB/ 512GB SSD/ Win11),119486,56,intel,core i3,2,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15s-fy5002TU Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),175926,57,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad Gaming 3 15ACH6 82K2022XIN Laptop (AMD Ryzen 7-5800H/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),209790,67,amd,ryzen 7,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lenovo,Lenovo Ideapad Gaming 3 15ACH6 82K20145IN Laptop (Ryzen 7 5800H/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),268920,71,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer One 14 Z8-415 Laptop (11th Gen Core i5 / 8GB/ 512GB SSD/ Win11 Home),132766,58,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+dell,Dell Alienware X16 R1 Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win 11/ 12GB Graph),1289786,82,intel,core i9,14,32,SSD,1024,NONE,nvidia,dedicated,16.0,3200,1800
+hp,HP 15s-fy5003TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),133132,54,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Alienware M18 R1 Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win 11/ 12GB Graph),1223386,83,intel,core i9,14,32,SSD,1024,NONE,nvidia,dedicated,18.0,3200,1800
+acer,Acer One 11 Z8-284 UN.013SI.014 Laptop ( Intel Celeron N4500/ 8GB/ 256GB SSD/ Win11 Home),122176,47,intel,celeron,2,8,SSD,256,NONE,intel,integrated,11.6,1366,768
+hp,HP 15-fc0030AU Laptop (AMD Ryzen 5 7520U/ 16GB/ 512GB SSD/ Win11 Home),154346,54,amd,ryzen 5,4,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+acer,Acer 16 Predator Neo NH.QLTSI.001 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),348596,65,intel,core i5,14,16,SSD,512,NONE,nvidia,dedicated,16.0,2560,1600
+hp,HP 15-fd0018TU Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),158198,51,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Predator Helios Neo 16 NH.QLTSI.002 Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),381766,66,intel,core i7,16,16,SSD,512,NONE,nvidia,dedicated,16.0,2560,1600
+hp,HP 15-fd0006TU Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),156006,51,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP 15-fd0011TU Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),200826,54,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Victus 15-fb0122AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),165966,67,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 15-fd0012TU Laptop (13th Gen Core i5/ 8GB/ 1TB SSD/ Win11 Home),217758,56,intel,core i5,10,8,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+realme,Realme Book Prime CloudPro002 Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11),142726,62,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,2160,1440
+hp,HP ProBook 440 G8 5D6U3PA Notebook PC (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11),235720,67,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,1366,768
+asus,Asus VivoBook 15 X515MA-BR024WS Laptop (Celeron N4020/ 8GB/ 512GB SSD/ Win11 Home),102677,45,intel,celeron,2,8,SSD,512,NONE,intel,integrated,15.6,1366,768
+dell,Dell Vostro 15 3510 2023 Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),159326,63,intel,core i5,4,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 15 2023 X1504VA-NJ321WS Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11),153676,56,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook Pro 16 OLED 2023 K6602VU-LZ542WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 6GB Graph),414966,78,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,16.0,3200,2000
+dell,Dell Vostro 3420 Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11),172606,63,intel,core i5,4,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook Go 15 OLED 2023 E1504FA-LK545WS Laptop (Ryzen 5 7520U / 16GB/ 512GB SSD/ Win11 Home),195846,60,amd,ryzen 5,4,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+dell,Dell Vostro 3425 Laptop (AMD Ryzen 5-5500U/ 8GB/ 512GB SSD/ Win11 Home),127786,59,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+acer,Acer Aspire 5 A515-56G Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 2GB Graph),149380,64,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Nitro 5 AN515-46 Gaming Laptop (Ryzen 5 6600H/ 16GB/ 1TB SSD/ Win11 Home/ 4GB Graph),295446,65,amd,ryzen 5,6,16,SSD,1024,NONE,nvidia,dedicated,15.6,2560,1440
+msi,MSI Thin GF63 12VF-268IN Laptop (12th Gen Core i5/ 16GB/ 1TB 256GB SSD/ Win11/ 8GB Graph),322006,77,intel,core i5,8,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+asus,Asus VivoBook 14 X1400EA-EK322WS Notebook (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),106206,59,intel,core i3,2,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Zenbook 14 Flip OLED 2023 UP3404VA-KN742WS Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),438240,73,intel,core i7,12,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+asus,Asus Zenbook 14 OLED 2023 UX3402VA-KN741WS Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),385086,73,intel,core i7,12,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+asus,Asus Vivobook 14X OLED 2023 K3405VFB-KM541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11/4 GB Graphics),298766,70,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,14.0,2880,1800
+hp,HP Victus 15-fa1066TX Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph),365166,71,intel,core i7,14,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Summit E13 Flip Evo A11MT-213IN Laptop (11th Gen Core i7/ 16GB/ 512GB SSD/ Win10),272206,65,intel,core i7,4,16,SSD,512,NONE,intel,integrated,13.4,1920,1200
+hp,HP Pavilion 15-eg2017TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),174598,60,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Zenbook 14 OLED 2023 UX3402VA-KN541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),302916,75,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+asus,Asus Vivobook 16 2023 X1605VAB-MB544WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),209126,59,intel,core i5,10,16,SSD,512,NONE,intel,integrated,16.0,1920,1200
+msi,MSI Summit E13 Flip Evo A11MT-214IN Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win10),232366,70,intel,core i5,4,16,SSD,512,NONE,intel,integrated,13.4,1920,1200
+hp,HP Victus 16-d0333TX Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),214140,75,intel,core i5,6,16,SSD,512,NONE,nvidia,dedicated,16.1,1920,1080
+asus,Asus Vivobook Flip 14 2023 TP3402VAB-LZ542WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),238834,64,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1200
+hp,HP Victus 15-fb0121AX Gaming Laptop (AMD Ryzen 5 5600H/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),172606,67,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+hp,HP 15s-fq2738TU Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win 11 Home),112843,56,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1366,768
+asus,Asus Vivobook 15 X1502ZA-EJ953WS Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11),132102,52,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+hp,HP Omen 16-n0123AX Gaming Laptop (AMD Ryzen 7 6800H/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),398366,77,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,16.1,2560,1440
+msi,MSI Raider GE68HX 13VG-027IN Gaming Laptop (13th Gen Core i9/ 32GB/ 2TB SSD/ Win11 Home/ 8GB Graph),866486,89,intel,core i9,24,32,SSD,2048,NONE,nvidia,dedicated,16.0,2560,1600
+asus,Asus Vivobook Go 14 E1404GA-NK322WS Laptop (Intel Core i3-N305/ 8GB/ 512GB SSD/ Win11 Home),129413,48,intel,core i3,8,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook 15 2023 X1504VA-NJ523WS Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11),185886,59,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Thin GF63 12UCX-265IN Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),216430,65,intel,core i5,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI GF63 Thin 11UC-1295IN Gaming Laptop (11th Gen Core i5/ 16GB/ 1TB 256GB SSD/ Win11 Home/ 4GB Graph),242326,71,intel,core i5,6,16,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+acer,Acer Nitro 5 AN515-47 2023 Gaming Laptop (AMD Ryzen 5 7535HS/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),229046,73,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Predator Helios 16 PH16-71 Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win11/ 8GB Graph),664298,74,intel,core i7,16,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+acer,Acer Nitro 5 AN515-47 Gaming Laptop (AMD Ryzen 7 7735HS/ 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),258594,72,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Stealth 16 Studio A13VF-023IN Gaming Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win11 Home/ 8GB Graph),730366,84,intel,core i7,14,32,SSD,1024,NONE,nvidia,dedicated,15.6,2560,1600
+lenovo,Lenovo ThinkPad P14s 21AKS02800 Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Pro/ 4GB Graphics),409259,78,intel,core i7,12,16,SSD,512,NONE,nvidia,dedicated,14.0,1920,1080
+asus,Asus Vivobook 15X OLED 2023 K3504VA-LK552WS Laptop (13th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home),235686,63,intel,core i5,12,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Raider GE68HX 13VG-026IN Gaming Laptop (13th Gen Core i7/ 32GB/ 2TB SSD/ Win11 Home/ 8GB Graph),717086,87,intel,core i7,16,32,SSD,2048,NONE,nvidia,dedicated,16.0,2560,1600
+msi,MSI Stealth 14 Studio A13VF-037IN Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),571006,80,intel,core i7,14,16,SSD,1024,NONE,nvidia,dedicated,15.6,2560,1600
+msi,MSI GF63 Thin 11UC-1297IN Gaming Laptop (11th Gen Core i5/ 8GB/ 1TB 256GB SSD/ Win11 Home/ 4GB Graph),232366,70,intel,core i5,6,8,HDD,1024,SSD,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook 15X 2023 K3504VAB-NJ541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),207500,56,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 16 2023 X1605VA-MB541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),228416,62,intel,core i5,12,16,SSD,512,NONE,intel,integrated,16.0,1920,1200
+hp,HP Spectre x360 2023 13.5-ef2034TU Laptop (13th Gen Core i7/ 32GB/ 1TB SSD/ Win11 Home),477495,75,intel,core i7,10,32,SSD,1024,NONE,intel,integrated,13.5,3000,2000
+asus,Asus Vivobook S15 OLED 2023 K5504VA-LK542WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),285486,60,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus VivoBook 14 2023 X1404VA-NK321WS Laptop (13th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),152686,57,intel,core i3,6,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus VivoBook 14 2023 X1404VA-NK522WS Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),199166,56,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Zenbook 14 Flip OLED 2023 UP3404VA-KN542WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),348566,71,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+asus,Asus Vivobook 15X OLED 2023 K3504VA-LK542WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),227054,64,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Zenbook S13 OLED 2023 UX5304VA-NQ542WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),325326,64,intel,core i5,10,16,SSD,512,NONE,intel,integrated,13.3,2880,1800
+asus,Asus Zenbook 14 OLED 2023 UX3402VA-KM541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),308726,70,intel,core i5,12,16,SSD,512,NONE,intel,integrated,14.0,2880,1800
+asus,Asus Vivobook 15 2023 X1502VA-NJ541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11),215766,62,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook 15 OLED 2023 X1505VA-LK542WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),248966,60,intel,core i5,12,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Vivobook Go 15 OLED 2023 E1504GA-LK322WS Laptop (Intel Core i3-N305/ 8GB/ 512GB SSD/ Win11 Home),146046,53,intel,core i3,8,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Inspiron 3525 D560771WIN9S Laptop (AMD Ryzen 5 5625U/ 8GB/ 512GB SSD/ Win11),149366,62,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus VivoBook 14 2023 X1404VA-NK541WS Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),212446,58,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook Go 15 2023 E1504GA-NJ322WS Laptop (Intel Core i3-N305/ 8GB/ 512GB SSD/ Win11 Home),130283,51,intel,core i3,8,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus Zenbook 14 Flip OLED 2023 UP3404VA-KN753WS Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home),431566,74,intel,core i7,12,16,SSD,1024,NONE,intel,integrated,14.0,2880,1800
+asus,Asus Vivobook S14 Flip 2022 TN3402QA-LZ520WS Laptop (AMD Ryzen 5-5600H/ 8GB/ 512GB SSD/Win11),195846,62,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,14.0,1920,1200
+lenovo,Lenovo V15 82QYA00MIN Laptop (Celeron N4020/ 8GB/ 256GB SSD/ Win11 Home),73833,47,intel,celeron,2,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+hp,HP 255 G9 7B1L8PA Laptop (AMD Ryzen 5 5625U/ 8GB/ 512 GB SSD/ Win11 Home),124466,64,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1366,768
+dell,Dell Vostro 3420 D552317WIN9B Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11),185588,59,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Bravo 15 B5ED-035IN Gaming Laptop (AMD Ryzen 7 / 16GB/ 512GB SSD/ Win11 Home/ 4GB Graph),205806,72,amd,ryzen 7,8,16,SSD,512,NONE,amd,dedicated,15.6,1920,1080
+hp,HP Spectre x360 16-f2002TU Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home),484384,79,intel,core i7,14,16,SSD,1024,NONE,intel,integrated,16.0,3072,1920
+hp,HP Spectre x360 2023 13.5-ef2033TU Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home),459856,72,intel,core i7,10,16,SSD,1024,NONE,intel,integrated,13.5,3000,2000
+lenovo,Lenovo V15 G2 IJL 82QYA00HIN Laptop (Celeron N4500/ 8GB/ 256GB SSD/ DOS),73006,43,intel,celeron,2,8,SSD,256,NONE,intel,integrated,15.6,1920,1080
+honor,Honor MagicBook 15 BMH-WFQ9HN Laptop (AMD Ryzen 5 5500U/ 16GB/ 512GB SSD/ Win11),146046,59,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+acer,Acer Aspire 7 A715-75G Gaming Laptop (10th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),152686,59,intel,core i5,4,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire 3 15 A315-510P Laptop (Intel Core i3 N305/ 8GB/ 512GB SSD/ Win11 Home),109526,50,intel,core i3,8,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+acer,Acer Aspire 3 14 A314-36M Laptop (Intel Core i3 N305/ 8GB/ 512GB SSD/ Win11 Home),106538,44,intel,core i3,8,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+acer,Acer Predator Helios 16 NH.QJRSI.003 Laptop (13th Gen Core i9/ 16GB/ 1TB SSD/ Win11/ 8GB Graph),614196,71,intel,core i9,24,16,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+acer,Acer Predator Helios 16 Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win11/ 12GB Graph),829966,77,intel,core i9,24,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+lenovo,Lenovo V14-IGL 82C40185PB Laptop (Celeron N4020/ 4GB/ 256GB SSD/ DOS),73006,45,intel,celeron,2,4,SSD,256,NONE,intel,integrated,14.0,1920,1080
+lenovo,Lenovo V14 82KAA04QIH Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ DOS),152686,58,intel,core i5,4,8,SSD,512,NONE,intel,integrated,14.0,1366,768
+lenovo,Lenovo ThinkBook 15 G3 21A4A08WIH Laptop (AMD Ryzen 3 5300U/ 8 GB/ 512 GB SSD/ Win11 Home),111186,56,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo V15 G2 82KDA022IH Laptop (AMD Ryzen 5 5500U/ 8GB/ 512GB SSD/ Win11 Home),119154,56,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook Pro 15 OLED M3500QC-L1712WS Laptop (Ryzen 7 5800H/ 16GB/ 1TB SSD/ Win11/ 4GB Graph),263940,67,amd,ryzen 7,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+fujitsu,Fujitsu FMV MH 4ZR1K10326 Laptop (AMD Ryzen 7 5825U/ 16GB/ 512GB SSD/ Win11),187560,70,amd,ryzen 7,8,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP 15s-eq2223AU Laptop (AMD Ryzen 5 5500U/ 8GB/ 512GB SSD/ Win11 Home),143390,58,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+msi,MSI Modern 15 B7M-072IN Laptop (Ryzen 5 7530U/ 8GB/ 512GB SSD/ Win11),146046,53,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+dell,Dell XPS 9315 D560076WIN9S Laptop (12th Gen Core i5 / 16GB/ 512GB SSD/ Win11),397072,68,intel,core i5,10,16,SSD,512,NONE,intel,integrated,13.0,1920,1080
+acer,Acer Aspire 3 A315-24P Laptop (Ryzen 3 7520U/ 8GB/ 256GB SSD/ Win11 Home),92926,52,amd,ryzen 3,4,8,SSD,256,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo IdeaPad 3 15ITL6 82H803DNIN Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),121146,60,intel,core i3,2,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Modern 15 B7M-071IN Laptop (AMD Ryzen 5-7530U/ 16GB/ 512GB SSD/ Win11),162646,54,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo Thinkpad E15 21E6S05A00 Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home),152686,66,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+lenovo,Lenovo Thinkpad E15 21E6S05G00 Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ DOS),219116,55,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+dell,Dell Vostro 5620 M552319WIN9S Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11/ 2GB Graph),292126,72,intel,core i7,12,16,SSD,512,NONE,nvidia,dedicated,16.0,1920,1080
+lenovo,Lenovo E41-55 82FJ00A0IH Laptop (AMD Ryzen 3 3250U/ 8GB/ 1TB HDD/ DOS),112846,52,amd,ryzen 3,2,8,HDD,1024,NONE,amd,integrated,14.0,1920,1080
+asus,Asus Vivobook Go 15 OLED 2023 E1504FA-LK541WS Laptop (Ryzen 5 7520U / 16GB/ 512GB SSD/ Win11 Home),168606,59,amd,ryzen 5,4,16,SSD,512,NONE,amd,integrated,15.6,1920,1080
+hp,HP Pavilion 15s-fq5013nia Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),192526,59,intel,core i5,10,8,SSD,512,NONE,intel,integrated,15.6,1366,768
+lenovo,Lenovo Thinkpad P16s 21BTS02000 Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Pro/ 4GB Graph),485619,75,intel,core i7,12,16,SSD,1024,NONE,nvidia,dedicated,16.0,1920,1200
+hp,HP 247 G8 Laptop (AMD Ryzen 3 3500U/ 8GB/ 512GB SSD/Win11),109194,52,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,14.0,1366,768
+lenovo,Lenovo ThinkBook 14 20VDA0V1IH Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ DOS),144420,54,intel,core i3,2,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus Vivobook 14 OLED 2023 M1405YA-KM541WS Laptop (AMD Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),205508,67,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,2880,1800
+hp,HP Chromebook x360 13b-ca0006MU Laptop (MediaTek Kompanio 1200/ 8GB/ 256 GB SSD/ Chrome OS),131309,43,other,other,8,8,SSD,256,NONE,arm,integrated,13.3,1920,1080
+hp,HP Chromebook 15a-na0012TU Laptop (Intel Celeron N4500/ 4GB/ 128GB eMMC/ Chrome OS),69686,37,intel,celeron,2,4,HDD,128,NONE,intel,integrated,15.6,1366,768
+lenovo,Lenovo V14 82KAA08BIH Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Dos),102886,50,intel,core i3,2,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP 255 G8 689T4PA Laptop (Ryzen 3 3250U/ 8GB/512GB SSD/ Win11 Home),89636,59,amd,ryzen 3,2,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+lenovo,Lenovo V15 G3 82TTA01EIN Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ DOS),106904,48,intel,core i3,6,8,SSD,512,NONE,intel,integrated,15.6,1920,1080
+asus,Asus ROG Zephyrus M16 2023 GU604VZ-NM050WS Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win11 / 12GB Graph),829966,89,intel,core i9,14,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+asus,Asus Vivobook Go 14 2023 E1404FA-NK522WS Laptop (Ryzen 5 7520U / 8GB/ 512GB SSD/ Win11),149300,58,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+asus,Asus Vivobook Go 14 2023 E1404FA-NK542WS Laptop (Ryzen 5 7520U / 16GB/ 512GB SSD/ Win11),151690,59,amd,ryzen 5,4,16,SSD,512,NONE,amd,integrated,14.0,1920,1080
+lenovo,Lenovo Thinkbook 15 21DJA0D9IH Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11 Home),199166,64,intel,core i5,10,16,SSD,1024,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Modern 14 C7M-063IN Laptop (Ryzen 5 7530U/ 8GB/ 512GB SSD/ Win11),139406,60,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+hp,HP 247 G8 796Z3PA Laptop (AMD Ryzen 3 3250U/ 8GB/ 512GB SSD/ DOS),102916,47,amd,ryzen 3,2,8,SSD,512,NONE,amd,integrated,14.0,1366,768
+acer,Acer Nitro 5 AN515-58 UN.QFHSI.002 Gaming Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),253976,71,intel,core i5,12,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Modern 14 C12M-440IN Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),126126,58,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+msi,MSI Modern 14 C12M-439IN Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),157666,59,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+msi,MSI Prestige 13 Evo A13M-063IN Laptop(13th Gen Core i7/ 16 GB/ 1TB SSD/Win11 Home),308726,72,intel,core i7,12,16,SSD,1024,NONE,intel,integrated,13.3,1920,1200
+msi,MSI Sword 15 A12UDX-468IN Gaming Laptop (12th Gen Core i5/ 16GB/ 1TB SSD/ Win11/ 6GB Graph),275526,74,intel,core i5,8,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+acer,Acer Aspire 3 A315-24P NX.KDESI.003 Laptop (Ryzen 3 7520U/ 8GB/ 512GB SSD/ Win11 Home),99566,54,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Vivobook Go 14 2023 E1404FA-NK322WS Laptop (Ryzen 3 7320U / 8GB/ 512GB SSD/ Win11 Home),106870,53,amd,ryzen 3,4,8,SSD,512,NONE,amd,integrated,14.0,1920,1080
+asus,Asus Vivobook Pro 15 M6500QC-HN742WS Laptop (Ryzen 7 5800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),229046,72,amd,ryzen 7,8,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+lg,LG Gram 16T90Q-G.AH75A2 Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11),393416,72,intel,core i7,12,16,SSD,512,NONE,intel,integrated,16.0,2560,1600
+msi,MSI Prestige 14 Evo B13M-279IN Laptop(13th Gen Core i7/ 16 GB/ 1TB SSD/Win11 Home),290138,67,intel,core i7,14,16,SSD,1024,NONE,intel,integrated,14.0,1920,1200
+acer,Acer Nitro 5 AN515-47 NH.QL3SI.001 Gaming Laptop (AMD Ryzen 5 7535HS/ 8GB/ 512GB SSD/ Win11/ 4GB Graph),229076,71,amd,ryzen 5,6,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Modern 15 B13M-289IN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),167962,59,intel,core i5,10,16,SSD,512,NONE,intel,integrated,15.6,1920,1080
+msi,MSI Modern 14 C13M-435IN Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home),202486,61,intel,core i7,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+asus,Asus ROG Strix SCAR 16 2023 G634JZ-N4062WS Gaming Laptop (13th Gen Core i9/ 32GB/ 1TB SSD/ Win11 Home/ 12GB Graph),929566,83,intel,core i9,24,32,SSD,1024,NONE,nvidia,dedicated,16.0,2560,1600
+msi,MSI Modern 14 C13M-436IN Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home),179246,58,intel,core i5,10,16,SSD,512,NONE,intel,integrated,14.0,1920,1080
+msi,MSI Modern 14 C13M-437IN Laptop (13th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home),136086,56,intel,core i5,10,8,SSD,512,NONE,intel,integrated,14.0,1920,1080
+hp,HP Spectre x360 14-ef0075TU Laptop (12th Gen Core i7/ 16GB/ 1TB SSD/ Win11),514596,73,intel,core i7,10,16,SSD,1024,NONE,intel,integrated,13.5,3000,2000
+asus,Asus Vivobook Flip 14 2023 TN3402YAB-LZ522WS Laptop (Ryzen 5 7530U/ 8GB/ 512GB SSD/ Win11 Home),182566,68,amd,ryzen 5,6,8,SSD,512,NONE,amd,integrated,14.0,1920,1200
+msi,MSI Katana 15 B13VFK-296IN Gaming Laptop (13th Gen Core i7/ 16GB/ 1TB SSD/ Win11 Home/ 8GB Graph),398366,76,intel,core i7,10,16,SSD,1024,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Zenbook 14 OLED 2023 UM3402YA-KM551WS Laptop (Ryzen 5 7530U / 16GB/ 1TB SSD/ Win11 Home),258926,68,amd,ryzen 5,6,16,SSD,1024,NONE,amd,integrated,14.0,2880,1800
+asus,Asus Vivobook 16 2023 M1605YA-MB551WS Laptop (Ryzen 5 7530U / 16GB/ 1TB SSD/ Win11 Home),222406,65,amd,ryzen 5,6,16,SSD,1024,NONE,amd,integrated,16.0,1920,1200
+asus,Asus Vivobook 16 2023 M1605YA-MB541WS Laptop (Ryzen 5 7530U / 16GB/ 512GB SSD/ Win11 Home),199166,64,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,16.0,1920,1200
+acer,Acer Nitro 5 AN515-47 NH.QL3SI.003 Gaming Laptop (AMD Ryzen 7 7735HS/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph),250660,67,amd,ryzen 7,8,8,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook Pro 15 M6500QC-HN542WS Laptop (Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),219086,68,amd,ryzen 5,6,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+msi,MSI Thin GF63 12VE-070IN Gaming Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/6GB Graphics),305406,73,intel,core i7,10,16,SSD,512,NONE,nvidia,dedicated,15.6,1920,1080
+asus,Asus Vivobook Go 15 2023 E1504FA-NJ522WS Laptop (Ryzen 5 7520U / 8GB/ 512GB SSD/ Win11 Home),149366,59,amd,ryzen 5,4,8,SSD,512,NONE,amd,integrated,15.6,1920,1080
+asus,Asus Zenbook 14 2023 UM3402YA-KP541WS Laptop (Ryzen 5 7530U/ 16GB/ 512GB SSD/ Win11 Home),225726,68,amd,ryzen 5,6,16,SSD,512,NONE,amd,integrated,14.0,2560,1600
+hp,HP Chromebook 15a-na0008TU Laptop (Intel Celeron N4500/ 4GB/ 128GB eMMC/ Chrome OS),69686,37,intel,celeron,2,4,HDD,128,NONE,intel,integrated,15.6,1366,768
