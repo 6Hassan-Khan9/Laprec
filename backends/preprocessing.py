@@ -25,4 +25,5 @@ laptops["id"] = laptops.index
 new = laptops[["id", "model", "tags"]]
 new.index = range(len(new))
 
-new.to_csv("models/new.csv")
+# 
+new.to_csv("models/laptops.csv")
