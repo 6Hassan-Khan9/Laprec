@@ -1,0 +1,5 @@
+nvidia
+intel
+amd
+apple
+arm

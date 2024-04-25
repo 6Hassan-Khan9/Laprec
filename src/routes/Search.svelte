@@ -1,9 +1,16 @@
 <script>
 	import '../app.postcss';
 
-	import Search from '../components/Search.svelte';
-	import DisplayBox from '../components/DisplayBox.svelte';
+	import SearchBar from '../components/SearchBar.svelte';
+	import ResultBox from '../components/ResultBox.svelte';
     import ThemeController from '../components/ThemeController.svelte';
+	import DisplayTags from '../components/DisplayTags.svelte';
+
+	let activeTag;
+
+	function executeRecommend(event) {
+		activeTag = event.detail.category;
+	}
 
 </script>
 
@@ -11,17 +18,25 @@
 	
     <div class="flex w-[60rem] justify-between">
 
-		<h1 class="text-accent my-12">L A P R E C</h1>
+		<h1 class="text-accent my-8">L A P R E C</h1>
 
+		<!-- Toggle themes -->
         <ThemeController />
 		
 	</div>
 
 	<div class="flex">
-		<div class="w-48 h-96 mr-4 border border-neutral"></div>
-		<DisplayBox />
+
+		<!-- Select tags from a category -->
+		<DisplayTags {activeTag}/>
+
+		<!-- See Results -->
+		<ResultBox />
+
 	</div>
-	<Search />
+
+	<!-- The Search Bar -->
+	<SearchBar on:recommend={executeRecommend}/>
 
 	<div class="flex justify-evenly my-12 w-96">
 		<p>Sadeem</p>
