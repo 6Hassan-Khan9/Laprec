@@ -2,7 +2,7 @@ import pandas as pd
 
 pd.set_option('display.max_colwidth', None)
 
-laptops = pd.read_csv("data-cleaned.csv")
+laptops = pd.read_csv("../db/data-cleaned.csv")
 
 laptops.rename(columns={"Model": "model", "Price": "price", "Rating": "rating"}, inplace=True)
 
@@ -26,4 +26,4 @@ new = laptops[["id", "model", "tags"]]
 new.index = range(len(new))
 
 # 
-new.to_csv("models/laptops.csv")
+new.to_csv("../db/laptops.csv")

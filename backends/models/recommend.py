@@ -2,7 +2,7 @@ import pandas as pd
 from bagOfWords import similarity
 
 def recommend(tags):
-  laptops = pd.read_csv("laptops.csv")
+  laptops = pd.read_csv("../db/laptops.csv")
   filteredByTags = laptops
   
   for tag in tags:
