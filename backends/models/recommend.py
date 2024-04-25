@@ -1,8 +1,9 @@
 import pandas as pd
+import os
 from bagOfWords import similarity
 
 def recommend(tags):
-  laptops = pd.read_csv("../db/laptops.csv")
+  laptops = pd.read_csv(os.path.join("..", "..", "db", "laptops.csv"))
   filteredByTags = laptops
   
   for tag in tags:
@@ -35,3 +36,5 @@ def recommend(tags):
         count =+ 1
       if count >= showHowMany:
         break
+
+recommend(["asus"])
