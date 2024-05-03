@@ -37,7 +37,7 @@
 <!-- Search bar -->
 <div class="flex">
     <button class="btn rounded-none btn-accent" on:click={() => {
-        dispatch('recommend', {
+        dispatch('displaySubTags', {
             category: selected_category
         })
     }}>S</button>
@@ -67,7 +67,7 @@
           if (selected_category === category) {
             selected_category = '';
           } else selected_category = category;
-          console.log(selected_category);
+          // console.log(selected_category);
         }}>{category}</button
       >
     {/each}

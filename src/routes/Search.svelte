@@ -8,9 +8,11 @@
 
 	let activeTag;
 
-	function executeRecommend(event) {
+	function getSubTags(event) {
 		activeTag = event.detail.category;
 	}
+
+	//TODO: add event for CTRL + K
 
 </script>
 
@@ -36,11 +38,11 @@
 	</div>
 
 	<!-- The Search Bar -->
-	<SearchBar on:recommend={executeRecommend}/>
+	<SearchBar on:displaySubTags={getSubTags}/>
 
 	<div class="flex justify-evenly my-12 w-96">
-		<p>Sadeem</p>
-		<p>Abdullah</p>
-		<p>Hassan</p>
+		<p>🔷 Sadeem</p>
+		<p>🟣 Abdullah</p>
+		<p>🟨 Hassan</p>
 	</div>
 </div>
