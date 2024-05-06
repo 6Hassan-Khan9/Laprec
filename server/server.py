@@ -10,6 +10,7 @@ from models import recommend as rcmd
 # Server imports -------------
 
 from flask import Flask, request, jsonify
+from flask_cors import cross_origin
 
 SERVER_LINK = "http://localhost:5000"
 app = Flask(__name__)
@@ -19,6 +20,7 @@ app = Flask(__name__)
 # Starting the server
 
 @app.route('/recommend', methods=['POST'])
+@cross_origin()
 def recommend_api():
   
   data = request.get_json()

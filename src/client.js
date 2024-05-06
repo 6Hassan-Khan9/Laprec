@@ -10,13 +10,14 @@ async function sendTags(tags) {
         if (data.error) {
             throw new Error(data.error);
         }
-        console.log("Results:", data.results);
+        return data.results;
 
     } catch (error) {
         console.error("Error:", error.messsage);
     }
 }
 
-export let recommend = (tags) => {
-    sendTags(tags);
+export async function recommend(tags) {
+    let val = await sendTags(tags);
+    return val;
 }

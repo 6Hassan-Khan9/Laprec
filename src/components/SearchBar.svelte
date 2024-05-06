@@ -67,7 +67,6 @@
           if (selected_category === category) {
             selected_category = '';
           } else selected_category = category;
-          // console.log(selected_category);
         }}>{category}</button
       >
     {/each}
