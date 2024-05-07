@@ -5,14 +5,26 @@
 	import ResultBox from '../components/ResultBox.svelte';
     import ThemeController from '../components/ThemeController.svelte';
 	import DisplayTags from '../components/DisplayTags.svelte';
+	import Params from '../components/Params.svelte';
 
 	let activeTag;
+	let recommendedResults;
+	let searchParams;
 
 	function getSubTags(event) {
 		activeTag = event.detail.category;
 	}
 
+	function displayResults(event) {
+		recommendedResults = event.detail.value;
+	}
+
+	function updateParams(event) {
+		searchParams = event.detail.value;
+	}
+
 	//TODO: add event for CTRL + K
+	// TODO: show params
 
 </script>
 
@@ -30,12 +42,16 @@
 	<div class="flex">
 
 		<!-- Select tags from a category -->
-		<DisplayTags {activeTag}/>
+		<DisplayTags {activeTag} on:results={displayResults} on:paramChange={updateParams}/>
 
 		<!-- See Results -->
-		<ResultBox />
+		<ResultBox results={recommendedResults}/>
 
 	</div>
+
+	<!-- Active Params -->
+
+	<Params {searchParams} />
 
 	<!-- The Search Bar -->
 	<SearchBar on:displaySubTags={getSubTags}/>
